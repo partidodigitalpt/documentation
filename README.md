@@ -154,7 +154,7 @@ shared trust between members of a small set is a necessity.
 
 PKI is embedded in government issued smart card eIDs.
 
-### Trusted Execution Environment ###<sup>\[17\]</sup>
+### Trusted Execution Environment<sup>\[17\]</sup>
 
 As mentioned unsecured platforms pose serious problems. We need to
 ensure that the applications necessary for remote e-voting are running
