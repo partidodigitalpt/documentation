@@ -1,34 +1,4 @@
-**Chapter **III**: Deliberative criteria** . . . . . . . . . . . **37**
-
-**Rules **for** decision-making and internal communication as well as criteria **for** **establishing** the** **political** program.**
-
-****
-
-****
-
-**Chapter **IV**: Politica**l **positions** . . . . . . . . . . . . . . . . 43**
-
-**Internal organization; rules **and procedures **regarding lists of candidates for public office and respective voting discipline.**
-
-****
-
-****
-
-**Chapter **V**: **M**anagement **. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . **4**4**
-
-**Financing of party activities, transparency.**
-
-****
-
-****
-
-**C**hapter **VI**: **Temporary** provisions** . . . . . . . . . . . . . . .46**
-
-**A**spects to be defined at the **first** national congress**es**.**
-
-****
-
-****
+# Statutes for political parties supported by a dapp
 
 ## Chapter I: General provisions
 Fundamental principles to which party members adhere as well as general aspects; name, acronym, membership, working tools and partnerships.
@@ -39,14 +9,12 @@ Fundamental principles to which party members adhere as well as general aspects;
 The **POLITICAL PARTY** is a political organization committed to building a free, just, supportive, economic and ecologically sustainable society.
 
 ### ( article 2 )
-
-Acronym, symbol, flag and anthem
+**Acronym, symbol, flag and anthem**
 
 The **POLITICAL PARTY** adopts the acronym **PP** and the **SYMBOL** as a symbol which represents the new possibilities yet to be discovered from delegative democracy with the use of the internet. The background colour of the flag is **COLOUR** which represents **COLOUR INTERPRETATION**. **SONG** is the anthem.
 
 ### ( article 3 )
-
-Recognition of the CONSTITUTION and the Universal Declaration of Human Rights
+**Recognition of the CONSTITUTION and the Universal Declaration of Human Rights**
 
 I.**PP** members recognize that the **LETTER** approved on **DATE** by the **POLITICAL BODY** constitutes the fundamental law prior to which all other laws are subdued.
 
