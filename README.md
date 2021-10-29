@@ -2,7 +2,7 @@
 
 We can divide the process of voting in 4 distinct categories: In-person
 paper voting, In-person e-voting, Remote paper voting and Remote
-e-voting.<sup>\[1\]</sup> Electoral processes must guarantee certain proprieties as
+e-voting.<sup>\[1\](https://github.com/Fedict/eid-mw)</sup> Electoral processes must guarantee certain proprieties as
 well as provide cybersecurity when done electronically<sup>\[2\]</sup>. The goal of
 this short paper is to do a small overview of the current tools of the
 ecosystem of remote e-voting and pin-point key components that will play
@@ -295,7 +295,6 @@ election results.
 
 \[4\] \"Fifteen years of internet voting in Switzerland \[History,
 Governance and Use\]\", Uwe Serdult et al., 2nd ICEDEG, 2015.
-
 https://www.researchgate.net/publication/283878260_Fifteen_Years_of_Internet_Voting_in_Switzerland_History_Governance_and_Use
 
 \[5\] DID Working Group, *https://www.w3.org/2019/did-wg/*
@@ -306,7 +305,6 @@ and Election System by 2022". *https://v.kakao.com/v/20200624165519865*
 \[7\] "The Future of Voting, End-to-End Verifiable Internet Voting,
 Specification and Feasibility Assessment Study", U.S Vote Foundation,
 Galois, 2015.
-
 https://usvotefoundation-drupal.s3.amazonaws.com/prod/E2EVIV_full_report.pdf
 
 \[8\] "BeleniosRF: A Non-interactive Receipt-Free Electronic Voting
@@ -339,7 +337,6 @@ Christian G., Lund University, Sweden, 2020.
 \[14\] "Towards Anonymous, Unlinkable, and Confidential Transactions in
 Blockchain" by Kalpana Singh et al., IEEE Blockchain, Halifax, Canada,
 2018.
-
 https://hal.archives-ouvertes.fr/hal-01812004/document
 
 \[15\] "Secure Electronic Voting using BlockChain and Homomorphic
@@ -358,13 +355,11 @@ at a Lower Cost to the Mobile Market", GlobalPlatform, 2015.
 
 \[18\] "A Clean Slate Approach to Linux Security RISC-V Enclave", Sandro
 Pinto et al., Embedded World Conference, Germany, 2020.
-
 *https://www.researchgate.net/publication/339784918_A\_Clean_Slate_Approach_to_Linux_Security_RISC-V_Enclave*
 
 \[19\] "Design Principles for Tamper-Resistant Smartcard Processors",
 Oliver Kömmerling et al., USENIX Workshop on Smartcard Technology, USA,
 1999.
-
 https://www.usenix.org/legacy/events/smartcard99/full_papers/kommerling/kommerling.pdf
 
 \[20\] "Bitcoin: A Peer-to-Peer Electronic Cash System" by S. Nakamoto,
@@ -379,7 +374,6 @@ Assistance of an Incognito System in Times of High Surveillance" by
 Maurice Dawson and Jose Antonio Cardenas-Haro, International Journal of
 Hyperconnectivity and the Internet of Things, United States of America,
 2017.
-
 *https://www.academia.edu/31947046/Tails_Linux_Operating_System_Remaining_Anonymous_with_the_Assistance_of_an_Incognito_System_in_Times_of_High_Surveillance*
 
 \[23\] Unified Multi-Purpose ID application form,
