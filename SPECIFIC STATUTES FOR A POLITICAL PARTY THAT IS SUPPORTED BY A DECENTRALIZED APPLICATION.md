@@ -37,7 +37,7 @@
 *Chapter I: General provisions* .** . . . . . . . . . . . . . . . . . . . .1**
 **Fundamental principles to which party members adhere as well as general aspects; name, acronym, membership, work**ing** tools **and** partnerships.**
 
-->( article 1 )<-
+<center>( article 1 )<center/>
 
 ->Mission** **<-
 
