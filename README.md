@@ -231,7 +231,7 @@ anonymity against non-state actors.
 Correct remote e-voting deployments must make use at each node of the
 decentralized infrastructure as well as on the end user's terminals, of
 proper endpoint threat detection and response techniques. These can
-range from the use of firewalls and updated anti-virus software to the
+range from the use of reverse firewalls and updated software to the
 correct choice and setup of the OS, which in particular, should be
 amnesic by default.<sup>\[22\]</sup> Additionally, practices such as never sharing
 personal smart cards with other users or sharing keys and passwords with
