@@ -1,7 +1,3 @@
-**Chapter **II**: **Internal organization**. . . . . . . . . . . . . **12**
-
-**Dates **for** the meetings, mission and composition of the **party bodies**; **work orders **and other details regarding management such as the role of the treasurer, moderators and **secretaries**.**
-
 **Chapter **III**: Deliberative criteria** . . . . . . . . . . . **37**
 
 **Rules **for** decision-making and internal communication as well as criteria **for** **establishing** the** **political** program.**
@@ -34,7 +30,7 @@
 
 ****
 
-*Chapter I: General provisions* .** . . . . . . . . . . . . . . . . . . . .1**
+*Chapter I: General provisions* 
 **Fundamental principles to which party members adhere as well as general aspects; name, acronym, membership, work**ing** tools **and** partnerships.**
 
 <center>( article 1 )<center/>
@@ -280,6 +276,10 @@ II.****The website should at least link to **PP**'s manifesto, the party's statu
 SUPPLEMENTARY STATUTE
 
  Anything that is not anticipated by the present statutes must follow **COUNTRY'S CONSTITUTION**, in specific **LAWS FOR POLITICAL PARTIES** and **LAWS FOR PUBLIC WORKERS**.
+
+**Chapter **II**: **Internal organization**. . . . . . . . . . . . . **12**
+
+**Dates **for** the meetings, mission and composition of the **party bodies**; **work orders **and other details regarding management such as the role of the treasurer, moderators and **secretaries**.**
 
 ** **( article 1 )
 
