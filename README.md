@@ -119,7 +119,7 @@ The whole system is thus divided and analyzed into several phases or
 layers. With proper design each layer can be checked as well as the
 transactions in-between. Some interesting remote e-voting systems that
 offer end-to-end verifiability, under certain configuration assumptions,
-that were found during our research were Remotegrity<sup>\[9\]</sup>, <sup>EVIV\[10\]</sup> and
+that were found during our research were Remotegrity<sup>\[9\]</sup>, EVIV<sup>\[10\]</sup> and
 VoteAgain<sup>\[11\]</sup>.
 
 ### Public-Key, Zero-Knowledge and Homomorphic Encryption
@@ -154,7 +154,7 @@ shared trust between members of a small set is a necessity.
 
 PKI is embedded in government issued smart card eIDs.
 
-### Trusted Execution Environment <sup>\[17\]</sup>
+### Trusted Execution Environment ###<sup>\[17\]</sup>
 
 As mentioned unsecured platforms pose serious problems. We need to
 ensure that the applications necessary for remote e-voting are running
