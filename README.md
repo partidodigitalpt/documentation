@@ -37,7 +37,7 @@ since 2003, the first time in the small commune Anieres that is part of
 the canton of Geneva. Between 10-20% of the total of votes of permanent
 residents have since been cast over the internet while for the expat
 community it has been registered between 40-70% on-line voter turnout,
-depending on the specific cantons.\[4\] Switzerland uses a different
+depending on the specific cantons.<sup>\[4\]</sup> Switzerland uses a different
 mechanism other than smart cards for identification however, which
 relies solely on in-presence registration at the corresponding cantons
 and the insertion of a series of codes that are sent to the
@@ -52,7 +52,7 @@ that decided the destiny of 527 community projects. The trial used
 blockchain for improved security which has seen strong support for
 adoption by national authorities that plan to invest \$380 million
 between 2021-2026. The Ministry of Science and Technology plans to
-implement DID\[5\] at a national level by the end of 2022.\[6\]
+implement DID<sup>\[5\]</sup> at a national level by the end of 2022.<sup>\[6\]</sup>
 
 Other trials have been conducted with relative success at varied scales
 in other countries as the technology behind remote e-voting becomes
@@ -76,7 +76,7 @@ Verifiability is the ability of any independent party to verify that all
 votes were counted correctly. Additionally, it should give voters the
 ability to verify that their own vote has been properly emitted,
 recorded and counted for the final tally results. The pursuit of this
-propriety culminated in the idea of end-to-end verifiability\[7\]
+propriety culminated in the idea of end-to-end verifiability<sup>\[7\]</sup>
 (E2E-VIV). Intuitively, what this system must provide is the ability for
 voters to detect fraud by distributing receipts for each vote while
 simultaneously preventing these from being used as proofs of their
@@ -90,7 +90,7 @@ process.
 The remote e-voting system must protect voters by concealing the
 relation between the voter and the votes cast, ensuring that the
 choice's made remain private. This can be expressed via several security
-properties \[8\]:
+properties <sup>\[8\]</sup>:
 
 - Basic ballot integrity guarantees that no one in possession of the
 (digital) ballots can disclose how voters voted individually while still
@@ -119,15 +119,15 @@ The whole system is thus divided and analyzed into several phases or
 layers. With proper design each layer can be checked as well as the
 transactions in-between. Some interesting remote e-voting systems that
 offer end-to-end verifiability, under certain configuration assumptions,
-that were found during our research were Remotegrity\[9\], EVIV\[10\] and
-VoteAgain\[11\].
+that were found during our research were Remotegrity<sup>\[9\]</sup>, <sup>EVIV\[10\]</sup> and
+VoteAgain<sup>\[11\]</sup>.
 
 ### Public-Key, Zero-Knowledge and Homomorphic Encryption
 
 PKIs are well established cryptographic algorithms and the necessary
 underlying infrastructure that can be used to form *secure channels*
 between two parties while guaranteeing *confidentiality*, *data
-integrity* and *identity*.\[12\]
+integrity* and *identity*.<sup>\[12\]</sup>
 
 Although Public-Key Infrastructure does provide some of the necessary
 building blocks for secure communications, registering and
@@ -136,25 +136,25 @@ certificates from a CA (the government or other public institutions) and
 the integrity of these is tied to the good behavior of the officials who
 issue and manage the certificates. Recently, decentralized PKI schemes
 which rely instead on a *Web of Trust* and *blockchain* were proposed to
-mitigate this design flaw.\[13\]
+mitigate this design flaw.<sup>\[13\]</sup>
 
 Zero-Knowledge Proofs (ZKP) are a way to prove to a party that you are
 in the possession of some information (a secret) without revealing it
 during communications. It's useful for *anonymous authentication* and
-consequentially, *private voting*.\[14\]
+consequentially, *private voting*.<sup>\[14\]</sup>
 
 Homomorphic encryption allows votes to be saved and later tallied
 without disclosing clear-data. It achieves this by doing computations on
 top of ciphertexts and is useful to guarantee *ballot integrity
-\[15\] *when publishing a bulletin-board of the votes*.
+<sup>\[15\]</sup> *when publishing a bulletin-board of the votes*.
 
 There are other cryptographies that may also prove to be useful such
-as Multi-Party computation \[16\], as an example whenever guaranteeing
+as Multi-Party computation <sup>\[16\]</sup>, as an example whenever guaranteeing
 shared trust between members of a small set is a necessity.
 
 PKI is embedded in government issued smart card eIDs.
 
-### Trusted Execution Environment \[17\]
+### Trusted Execution Environment <sup>\[17\]</sup>
 
 As mentioned unsecured platforms pose serious problems. We need to
 ensure that the applications necessary for remote e-voting are running
@@ -172,13 +172,13 @@ promoting open source software and hardware and is currently an issue
 given the monopoly of hardware manufacturers.
 
 This technology is implemented in some of the AMD, Intel, ARM and RISC-V
-CPUs \[18\]. Smart cards are also one form of TEE because of their
+CPUs <sup>\[18\]</sup>. Smart cards are also one form of TEE because of their
 embedded microchips which are obviously detached from the devices with
-which they operate.\[19\]
+which they operate.<sup>\[19\]</sup>
 
 ### Distributed ledgers
 
-The blockchain \[20\] is a new technology for storing data in a secure and
+The blockchain <sup>\[20\]</sup> is a new technology for storing data in a secure and
 transparent way which is not subject to any form of central control. It
 provides strong resilience against attacks that can tamper the integrity
 of the data by making use of the *immutability* propriety that can be
@@ -222,7 +222,7 @@ This architecture if properly setup can be used to obfuscate the user's
 source and destination IPs. No-Log VPNs may provide this service but
 require some level of trust between the users and the VPN provider.
 
-Tor \[21\] on the other hand, is a decentralized trustless solution first
+Tor <sup>\[21\]</sup> on the other hand, is a decentralized trustless solution first
 developed by the U.S. Navy in the mid-1990s which provides reasonable
 anonymity against non-state actors.
 
@@ -233,7 +233,7 @@ decentralized infrastructure as well as on the end user's terminals, of
 proper endpoint threat detection and response techniques. These can
 range from the use of firewalls and updated anti-virus software to the
 correct choice and setup of the OS, which in particular, should be
-amnesic by default.\[22\] Additionally, practices such as never sharing
+amnesic by default.<sup>\[22\]</sup> Additionally, practices such as never sharing
 personal smart cards with other users or sharing keys and passwords with
 the public are important.
 
@@ -251,9 +251,9 @@ Nigeria, Norway, Oman, Pakistan, Poland, Romania, Serbia, Slovakia,
 Somalia, Spain, Sweden, Thailand, Turkey, United Arab Emirates and
 Uruguay.
 
-We know that Philippines\[23\] has successfully deployed government issued
+We know that Philippines<sup>\[23\]</sup> has successfully deployed government issued
 smart card eIDs but failed at finding information about the availability
-of the middleware. France \[24\] is soon to deploy smart card eIDs.
+of the middleware. France <sup>\[24\]</sup> is soon to deploy smart card eIDs.
 
 In other countries no eID service is provided and identification is
 mostly done in person and paper based, or dependent on centralized IT
@@ -263,12 +263,12 @@ in the case of Switzerland.
 Another hypothetical way to implement remote e-voting is to make use of
 W3C DID standard. The only country that has pledged publicly to the
 allocation of public resources to this end is the already mentioned case
-of South Korea. In this spirit, CanDID\[25\] seems to be an interesting
+of South Korea. In this spirit, CanDID<sup>\[25\]</sup> seems to be an interesting
 innovative approach to implement remote e-voting in countries that still
 rely on legacy systems.
 
 Biometrics may also prove to be an alternative to eID provided by state
-issued smart cards.\[26\]
+issued smart cards.<sup>\[26\]</sup>
 
 The present authors consider that the conditions to deploy E2E-VIV are
 to a large extent sufficiently understood and that further investment
@@ -283,7 +283,6 @@ to evolve.
 
 \[1\] "A framework for comparing the security of voting schemes", Atte
 Juvonen, University of Helsinky, Finland, 2019.
-
 https://www.attejuvonen.fi/thesis-voting-security-2019-10-01.pdf
 
 \[2\] "Formalising security properties in electronic voting protocols",
@@ -405,7 +404,7 @@ Johannes M. and Emmanouil V., International Conference on Cyber Security
 and Protection of Digital Services, 2020.
 *https://www.researchgate.net/publication/341000573_ethVote_Towards_secure_voting_with_distributed_ledgers*
 
-https://semaphore.appliedzkp.org/
+\[?\] Semaphore, https://semaphore.appliedzkp.org/
 
 Available SDKs
 
