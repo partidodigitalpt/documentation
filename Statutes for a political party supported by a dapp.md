@@ -1,4 +1,4 @@
-# Statutes for political parties supported by a dapp
+# Statutes for political parties supported by dapps
 
 ## Chapter I: General provisions
 Fundamental principles to which party members adhere as well as general aspects; name, acronym, membership, working tools and partnerships.
