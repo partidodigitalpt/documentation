@@ -1,6 +1,6 @@
 # Remote e-voting overview
 
-We can divide the process of voting in 4 distinct categories: In-person
+  We can divide the process of voting in 4 distinct categories: In-person
 paper voting, In-person e-voting, Remote paper voting and Remote
 e-voting.<sup>\[1\]</sup> Electoral processes must guarantee certain proprieties as
 well as provide cybersecurity when done electronically<sup>\[2\]</sup>. The goal of
@@ -13,7 +13,7 @@ consensus
 
 ## Subject
 
-Remote e-voting is the ability for a user to cast a vote during an
+  Remote e-voting is the ability for a user to cast a vote during an
 election, or to answer a poll, from their own computer in any location
 with immediate effect. Elections that are run electronically are
 important because they are able to generate consensus faster than
@@ -22,7 +22,7 @@ infrastructure can be re-used in different cycles.
 
 ## USE CASES
 
-One of the first pilot experiments with remote e-voting was in Estonia
+  One of the first pilot experiments with remote e-voting was in Estonia
 and took place in 2005 for the local elections where around 1% of the
 voters used the system. This later culminated in the 2019 Estonian
 parliamentary elections where 565 045 people voted of which 247 232 cast
