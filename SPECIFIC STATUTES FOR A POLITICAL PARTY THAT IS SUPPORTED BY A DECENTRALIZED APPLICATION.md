@@ -4,17 +4,9 @@ INDEX
 
 **Fundamental principles to which party members adhere as well as general aspects; name, acronym, membership, work**ing** tools **and** partnerships.**
 
-****
-
-****
-
 **Chapter **II**: **Internal organization**. . . . . . . . . . . . . **12**
 
 **Dates **for** the meetings, mission and composition of the **party bodies**; **work orders **and other details regarding management such as the role of the treasurer, moderators and **secretaries**.**
-
-****
-
-****
 
 **Chapter **III**: Deliberative criteria** . . . . . . . . . . . **37**
 
