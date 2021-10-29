@@ -2,7 +2,7 @@
 
 We can divide the process of voting in 4 distinct categories: In-person
 paper voting, In-person e-voting, Remote paper voting and Remote
-e-voting.\[1\]Electoral processes must guarantee certain proprieties as
+e-voting.<sup>\[1\]</sup>Electoral processes must guarantee certain proprieties as
 well as provide cybersecurity when done electronically\[2\]. The goal of
 this short paper is to do a small overview of the current tools of the
 ecosystem of remote e-voting and pin-point key components that will play
