@@ -30,12 +30,11 @@
 
 ****
 
-**Chapter I: General provisions**\
+##Chapter I: General provisions\
 *Fundamental principles to which party members adhere as well as general aspects; name, acronym, membership, working tools and partnerships.*
 
-<center>( article 1 )<center/>
-
-Mission
+###( article 1 )\
+###Mission
 
 The **POLITICAL PARTY** is a political organization committed to building a free, just, supportive, economic and ecologically sustainable society.
 
