@@ -1,5 +1,4 @@
-# documentation
-Initial thoughts put on paper. Collaborative development is welcomed.
+# Remote e-voting overview
 
 We can divide the process of voting in 4 distinct categories: In-person
 paper voting, In-person e-voting, Remote paper voting and Remote
