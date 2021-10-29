@@ -31,7 +31,7 @@
 ****
 
 *Chapter I: General provisions* 
-**Fundamental principles to which party members adhere as well as general aspects; name, acronym, membership, work**ing** tools **and** partnerships.**
+**Fundamental principles to which party members adhere as well as general aspects; name, acronym, membership, working tools and partnerships.**
 
 <center>( article 1 )<center/>
 
