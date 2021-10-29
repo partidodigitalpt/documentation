@@ -2,7 +2,7 @@
 
 We can divide the process of voting in 4 distinct categories: In-person
 paper voting, In-person e-voting, Remote paper voting and Remote
-e-voting.<sup>\[1\](https://github.com/Fedict/eid-mw)</sup> Electoral processes must guarantee certain proprieties as
+e-voting.<sup>\[1\]</sup> Electoral processes must guarantee certain proprieties as
 well as provide cybersecurity when done electronically<sup>\[2\]</sup>. The goal of
 this short paper is to do a small overview of the current tools of the
 ecosystem of remote e-voting and pin-point key components that will play
@@ -154,12 +154,12 @@ shared trust between members of a small set is a necessity.
 
 PKI is embedded in government issued smart card eIDs.
 
-### Trusted Execution Environment<sup>\[17\]</sup>
+### Trusted Execution Environment
 
 As mentioned unsecured platforms pose serious problems. We need to
 ensure that the applications necessary for remote e-voting are running
 in isolated environments in order to protect the voter's machine against
-malware. TEE allows this by structuring access to hardware resources
+malware. TEE<sup>\[17\]</sup> allows this by structuring access to hardware resources
 separately from the rich OS. With the proper setup of a nanokernel, with
 the use of microcode and private keys stored in firmware, namely in ROMs
 (Read-only Memory), and assuming a trust relationship between the
