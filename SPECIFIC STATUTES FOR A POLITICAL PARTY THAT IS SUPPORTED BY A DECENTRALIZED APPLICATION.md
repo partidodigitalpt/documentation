@@ -1,9 +1,3 @@
-INDEX
-
-*Chapter I: General provisions* .** . . . . . . . . . . . . . . . . . . . .1**
-
-**Fundamental principles to which party members adhere as well as general aspects; name, acronym, membership, work**ing** tools **and** partnerships.**
-
 **Chapter **II**: **Internal organization**. . . . . . . . . . . . . **12**
 
 **Dates **for** the meetings, mission and composition of the **party bodies**; **work orders **and other details regarding management such as the role of the treasurer, moderators and **secretaries**.**
@@ -40,11 +34,12 @@ INDEX
 
 ****
 
-****
+*Chapter I: General provisions* .** . . . . . . . . . . . . . . . . . . . .1**
+**Fundamental principles to which party members adhere as well as general aspects; name, acronym, membership, work**ing** tools **and** partnerships.**
 
-( article 1 )
+->( article 1 )<-
 
-Mission** **
+->Mission** **<-
 
 The **POLITICAL PARTY** is a political organization committed to building a free, just, supportive, economic and ecologically sustainable society.
 
