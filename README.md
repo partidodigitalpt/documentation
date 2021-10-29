@@ -2,8 +2,8 @@
 
 We can divide the process of voting in 4 distinct categories: In-person
 paper voting, In-person e-voting, Remote paper voting and Remote
-e-voting.<sup>\[1\]</sup>Electoral processes must guarantee certain proprieties as
-well as provide cybersecurity when done electronically\[2\]. The goal of
+e-voting.<sup>\[1\]</sup> Electoral processes must guarantee certain proprieties as
+well as provide cybersecurity when done electronically<sup>\[2\]</sup>. The goal of
 this short paper is to do a small overview of the current tools of the
 ecosystem of remote e-voting and pin-point key components that will play
 an important role in its foreseeable evolution.
@@ -29,7 +29,7 @@ parliamentary elections where 565 045 people voted of which 247 232 cast
 their votes on-line, at home, over the internet, which is about 43.8% of
 the total of the votes cast. Estonia is so far the only country to
 deploy remote e-voting for national elections across the entire
-population of the country.\[3\] To achieve this it made use of the smart
+population of the country.<sup>\[3\]</sup> To achieve this it made use of the smart
 card eID issued by their government.
 
 In Switzerland, remote e-voting has been occurring a little bit earlier,
