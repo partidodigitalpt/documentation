@@ -3,19 +3,19 @@
 <li><b>General provisions</b>:</li>
 Fundamental principles to which party members adhere as well as general aspects; name, acronym, membership, working tools and partnerships.
 
-<li>**Internal organization**:</li>
+<li><b>Internal organization</b>:</li>
 Dates for the meetings, mission and composition of the party bodies; work orders and other details regarding management such as the role of the treasurer, moderators and secretaries.
 
-<li>**Deliberative criteria**:</li>
+<li><b>Deliberative criteria</b>:</li>
 Rules for decision-making and internal communication as well as criteria for establishing the political program.
 
-<li>**Political positions**:</li>
+<li><b>Political positions</b>:</li>
 Internal organization; rules and procedures regarding lists of  candidates for public office and respective voting discipline.
 
-<li>**Management**:</li>
+<li><b>Management</b>:</li>
 Financing of party activities, transparency.
 
-<li>**Temporary provisions**:</li>
+<li><b>Temporary provisions</b>:</li>
 Aspects to be defined at the first national congresses.
 </ul>
 
