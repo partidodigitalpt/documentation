@@ -16,7 +16,7 @@ Internal organization; rules and procedures regarding lists of  candidates for p
 Financing of party activities, transparency.
 
 <li><b>Temporary provisions</b></li>
-Aspects to be defined at the first national congresses.
+Aspects to be defined during the first national congresses.
 </ul>
 
 ## General provisions
@@ -35,16 +35,19 @@ Acronym, symbol, flag and anthem
 
 The **POLITICAL PARTY** adopts the acronym **PP** and the **SYMBOL** as a symbol which represents the new possibilities yet to be discovered from delegative democracy with the use of the internet. The background colour of the flag is **COLOUR** which represents **COLOUR INTERPRETATION**. **SONG** is the anthem.
 
-### ( article 3 )
-**Recognition of the CONSTITUTION and the Universal Declaration of Human Rights**
+<p align="center">
+<b>( article 3 )</b><br>
+Recognition of the CONSTITUTION and the Universal Declaration of Human Rights
+</p>
 
 I.**PP** members recognize that the **LETTER** approved on **DATE** by the **POLITICAL BODY** constitutes the fundamental law prior to which all other laws are subdued.
 
 II.**PP** also considers the preamble and all articles present in the Universal Declaration of Human Rights, proclaimed at the United Nations Assembly on December 10<sup>th</sup> 1948 as a source of inspiration for all political action.
 
-( article 4 )
-
+<p align="center">
+<b>( article 4 )</b><br>
 on-line PLATFORM FOR political discussion
+</p>
 
 The on-line platform for political discussion, or on-line platform short, is computer software and the necessary underlying infrastructure that allows secure exchange of messages and the realization of cheap, fast and reliable on-line referendums between members of the party. It also provides the visualization of live video streams of political debates and serves as a repository for data necessary to the study of the economical and environmental impact of policies deemed relevant.
 
