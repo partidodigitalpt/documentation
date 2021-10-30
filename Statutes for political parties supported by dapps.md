@@ -37,7 +37,7 @@ The **POLITICAL PARTY** adopts the acronym **PP** and the **SYMBOL** as a symbol
 
 <p align="center">
 <b>( article 3 )</b><br>
-Recognition of the CONSTITUTION and the Universal Declaration of Human Rights
+Recognition of the **CONSTITUTION** and the **Universal Declaration of Human Rights**
 </p>
 
 I.**PP** members recognize that the **LETTER** approved on **DATE** by the **POLITICAL BODY** constitutes the fundamental law prior to which all other laws are subdued.
@@ -46,8 +46,7 @@ II.**PP** also considers the preamble and all articles present in the Universal 
 
 <p align="center">
 <b>( article 4 )</b><br>
-on-line PLATFORM FOR political discussion
-</p>
+On-line platform for political discourse</p>
 
 The on-line platform for political discussion, or on-line platform short, is computer software and the necessary underlying infrastructure that allows secure exchange of messages and the realization of cheap, fast and reliable on-line referendums between members of the party. It also provides the visualization of live video streams of political debates and serves as a repository for data necessary to the study of the economical and environmental impact of policies deemed relevant.
 
@@ -59,8 +58,7 @@ Iii.Backup copies of the database must be periodically made and saved in digital
 
 <p align="center">
 <b>( article 4-b )</b><br>
-Functionalities
-</p>
+Functionalities</p>
 
 Through the on-line platform the party members are able to:
 
@@ -74,7 +72,7 @@ Iv.Members are able to delegate to other members the ability to vote on a specif
 
 <p align="center">
 <b>( article 4-c )</b><br>
-discussion forum
+Discussion forum
 </p>
 
 The on-line platform has a specific view; an on-line bulletin board, also known as a forum, to be used for political discourse where:
@@ -87,7 +85,7 @@ III. Moderation is user-centric meaning no special roles are assigned to any use
 
 <p align="center">
 <b>( article 4-d )</b><br>
-hemicycle and geopolitical map
+Hemicycle and geopolitical map
 </p>
 
 The hemicycle and geopolitical map are views in the on-line platform that allow for quick analyses of the **PP**'s (or other relevant political) events by means of visual representations such as mimicking a real hemicycle or pinpointing geometrical figures in a map accordingly.
@@ -169,7 +167,7 @@ Ii.Members being remunerated by the **PP** must act in accordance to **LAW** reg
 
 <p align="center">
 <b>( article 9 )</b><br>
-Rights and duties of Party members
+Rights and duties of party members
 </p>
 
 It is the right of members of the **PP** to participate in all activities, to formulate any suggestion or criticism that may be deemed convenient or to propose new policies or changes to existing ones. Everything should be doable with the support of the on-line platform. Alternatively, **PP** welcomes paper-based proposals and referendums.
@@ -186,7 +184,7 @@ V.It is duty to perform with zeal, assiduity and loyalty to the other members th
 
 <p align="center">
 <b>( article 10 )</b><br>
-work</p>
+Work</p>
 
 Party members are invited to contribute to the elaboration and supervision of all types of political projects. To be eligible, they must inform the party of their availability and area of expertise through the on-line platform.
 
@@ -226,13 +224,13 @@ Vii.It’s the responsibility of the CDIEs at all levels to evaluate situations 
 
 <p align="center">
 <b>( article 13 )</b><br>
-bodies</p>
+Bodies</p>
 
 There are **22** different bodies that contribute to the normal functioning of the **PP**. Some of these bodies are singular while others compose multiple instances in different geographical locations. These bodies are further divided into main, secondary and minor categories; the main bodies focus on political debates while secondary bodies do the technical support necessary for these discussions. Minor bodies are composed of members of the **PP** without full membership or are bodies that focus on particular tasks or political projects. The convocation, composition and work order are specified in the statutes of the next chapter.
 
 <p align="center">
 <b>( article 13-b )</b><br>
-administrative regions</p>
+Administrative regions</p>
 
 Some of the **PP**’s bodies are further divided into **LOCAL**, **REGIONAL**, **INTER-REGIONAL** and **NATIONAL** structures. The choice for these terms derives from the administrative division of the land following the **LAW** in use by **COUNTRY**.
 
@@ -240,7 +238,7 @@ I.Unless stated otherwise party members cannot partake in activities of bodies t
 
 <p align="center">
 <b>( article 14 )</b><br>
-headquarters</p>
+Headquarters</p>
 
 **PP** has National Headquarters (NHQ) in the capital, Local Headquarters (LHQ) at each of the smallest administrative regions of the country, Regional Headquarters (RHQ) and Inter-regional Headquarters (IHQ) within the boundaries and intersections of the corresponding administrative regions. It's in these spaces that some of the party bodies do their work. Financing and the architectural requirements for these spaces is established in Chapter V, Article 10 – Typology of the party headquarters.
 
@@ -252,7 +250,7 @@ iii.The choice of these spaces must be made through democratic consensus on the 
 
 <p align="center">
 <b>( article 15 )</b><br>
-CONTACTS</p>
+Contacts</p>
 
 Management of the party’s official mail and e-mails is made by either the CA or the corresponding LAs.
 
@@ -264,7 +262,7 @@ IIi.Each of the party’s bodies other than cores have an official e-mail with t
 
 <p align="center">
 <b>( article 15-b )</b><br>
-website</p>
+Website</p>
 
 The offici5al website of the **PP** serves the triple propose of distributing documentation created during party's work, recruiting new members and as a means for communication with external entities.
 
@@ -274,7 +272,7 @@ II.The website should at least link to **PP**'s manifesto, the party's statutes,
 
 <p align="center">
 <b>( article 16 )</b><br>
-SUPPLEMENTARY STATUTE</p>
+Supplementary statute</p>
 
 Anything that is not anticipated by the present statutes must follow **COUNTRY'S CONSTITUTION**, in specific **LAWS FOR POLITICAL PARTIES** and **LAWS FOR PUBLIC WORKERS**.
 
@@ -294,7 +292,7 @@ III.Minor bodies: the Digital Youth and the Cores.
 
 <p align="center">
 <b>( article 2 )</b><br>
-moderator</p>
+Moderator</p>
 
 The moderator is summoned whenever there is a debate during **PP**’s activities where there are at most 10 people participating and its mission is to mediate the dialogue. The moderator is elected at least a week prior to the debate by plurinominal consensus between the participants of the debate on the on-line platform.
 
@@ -304,13 +302,13 @@ II.Manages the intervention time during the political debates guaranteeing equal
 
 <p align="center">
 <b>( article 2-b )</b><br>
-board</p>
+Board</p>
 
 The board takes the role of the moderator for debates with more than 10 participants or in situations where the debate is expected to become too technical or too long. The choice for the board is made through plurinominal consensus between the participants in the debate on the on-line platform at least 1 week prior to the debate and is composed of up to 10 members.
 
 <p align="center">
 <b>( article 2-c )</b><br>
-secretary</p>
+Secretary</p>
 
 The secretary is summoned whenever there’s a debate during **PP**’s activities and has the function of registering the event.
 
@@ -324,19 +322,19 @@ Iv.The secretary can use the on-line platform to probe the opinions of the party
 
 <p align="center">
 <b>( article 3 )</b><br>
-presidency</p>
+Presidency</p>
 
 The **PP**’s Presidency represents the party in face of other organizations in particular at the national level with foreign entities.
 
 <p align="center">
 <b>( article 3-b )</b><br>
-composition</p>
+Composition</p>
 
 The **PP** presidency is composed of 1 member elected by plurinominal consensus on the on-line platform and 1 member elected by the Political Commission.
 
 <p align="center">
 <b>( article 3-c )</b><br>
-work order</p>
+Work order</p>
 
 i.Chooses a member to participate in the High Councils.
 
@@ -348,7 +346,7 @@ iv. Can make announcements that are seen by all the party members in the on-line
 
 <p align="center">
 <b>( article 4 )</b><br>
-national congress</p>
+National congress</p>
 
 The National Congress is the body that gathers the largest number of participants and may take place in any agreed location.
 
@@ -362,7 +360,7 @@ It meets extraordinarily at request by reaching consensus through the on-line pl
 
 <p align="center">
 <b>( article 4-c )</b><br>
-composition</p>
+Composition</p>
 
 I.**PP** members and sympathizers can participate in the National Congress.
 
@@ -370,7 +368,7 @@ Ii.The choice of the National Congress board is made by plurinominal consensus b
 
 <p align="center">
 <b>( article 4-d )</b><br>
-work order</p>
+Work order</p>
 
 Ratifies changes to the party's statutes.
 
@@ -426,7 +424,7 @@ ii.Up to 10 party members from the Local Council, elected by plurinominal consen
 
 <p align="center">
 <b>( article 6-d )</b><br>
-work order</p>
+Work order</p>
 
 I.Debates current policy proposals put forward by the party members with a local rate of approval higher than 25%.
 
@@ -438,7 +436,7 @@ Iv.Proposes a schedule for the execution of the approved bills with low economic
 
 <p align="center">
 <b>( article 7 )</b><br>
-regional councILS</p>
+Regional councils</p>
 
 The regional councils have the function of debating policies proposed by the party members whose impact can influence the cultural-socio-economic dynamics of the community reinforcing regional unity. There is 1 instance for each administrative division of the land corresponding to the second smallest unit of government, traditionally akin to counties/municipalities, regional authorities, prefectures, arrondissements, kreis, kraje, daira, etc., geocoded NUTS 3.
 
@@ -450,13 +448,13 @@ Meets twice monthly at the corresponding RHQs, i.e: on the first and last quarte
 
 <p align="center">
 <b>( article 7-c )</b><br>
-composition</p>
+Composition</p>
 
 A party member elected by each one of the **PP**’s local electoral list of representative candidates.
 
 <p align="center">
 <b>( article 7-d )</b><br>
-work order</p>
+Work order</p>
 
 I.Debates policies put forward by members of the party that have a local rate of approval above 35%.
 
@@ -470,7 +468,7 @@ v.Proposes a schedule for the execution of the approved bills with ordinary and 
 
 <p align="center">
 <b>( article 8 )</b><br>
-inter-regional councils</p>
+Inter-regional councils</p>
 
 Given the difficulty of bringing together a large number of participants in the same physical space, the inter-regional councils reinforce the territorial unity by interconnecting the various regional councils in the country.
 
@@ -478,7 +476,7 @@ Akin to states, departments, wilayas or geocode NUTS 2.
 
 <p align="center">
 <b>( article 8-b )</b><br>
-convocation</p>
+Convocation</p>
 
 Meets twice monthly alternating between the corresponding IHQs, i.e.: during waxing and waning crescent moons.
 
@@ -490,7 +488,7 @@ It’s composed of members proposed by each of the Regional Councils that are pa
 
 <p align="center">
 <b>( article 8-d )</b><br>
-work order</p>
+Work order</p>
 
 I.Debates policy proposals put forward by party members that have a global rate of approval higher than 30%.
 
@@ -498,13 +496,13 @@ II.Proposes a schedule for the execution of approved bills of high economical im
 
 <p align="center">
 <b>( article 9 )</b><br>
-political commission</p>
+Political commission</p>
 
 It is an organ whose purpose is to reinforce territorial unity. It is responsible for electing **PP**’s representatives for parliamentary seats.
 
 <p align="center">
 <b>( article 9-b )</b><br>
-convocation</p>
+Convocation</p>
 
 I.Meets at least 4 times annually: ordinarily 4 times during equinoxes and solstice's eve and extraordinarily in case of anticipated elections or demission of deputies from the parliament
 
@@ -512,13 +510,13 @@ II.It also reunites extraordinarily in case of political turmoil such as by anti
 
 <p align="center">
 <b>( article 9-c )</b><br>
-composition</p>
+Composition</p>
 
 One member elected by each of the Inter-regional Councils.
 
 <p align="center">
 <b>( article 9-d )</b><br>
-work order</p>
+Work order</p>
 
 I.Draws up and ratifies a document containing general lines of political strategy for governance of the country at the beginning of each electoral cycle.
 
@@ -543,7 +541,7 @@ The existence of this body, called CDIE, is justified by the need to supervise t
 
 <p align="center">
 <b>( article 10-b )</b><br>
-composition</p>
+Composition</p>
 
 The composition of all the structures of the CDIE must be chosen by plurinominal consensus and respect:
 
@@ -563,7 +561,7 @@ VII.The regional level structures are called Regional Coordination for the Defen
 
 <p align="center">
 <b>( article 10-c )</b><br>
-WORK ORDER</p>
+Work order</p>
 
 I.Each one of the structures of the CDIE elects by plurinominal consensus a Party member responsible for exercising treasury functions at the corresponding headquarters.
 
@@ -593,7 +591,7 @@ SELC is a group of work that is given the task of consolidating the policy propo
 
 <p align="center">
 <b>( article 11-b )</b><br>
-composition</p>
+Composition</p>
 
 I.One member proposed by each of the professional **ORDER**s for each of the Local SELC.
 
@@ -617,7 +615,7 @@ iv.Groups must also be validated by the corresponding CDIE.
 
 <p align="center">
 <b>( article 11-d )</b><br>
-work order</p>
+Work order</p>
 
 I.Elects 3 Party members trained each one on a different field; engineering, economics and jurisprudence to participate in the High Councils through plurinominal consensus.
 
@@ -647,7 +645,7 @@ II.The constituents of each SC must be chosen according to the complexity of the
 
 <p align="center">
 <b>( article 12-c )</b><br>
-work order</p>
+Work order</p>
 
 Each Scientific Committee must:
 
@@ -665,13 +663,13 @@ The Economic Committees, with the acronym EC are all similar to the SC with the 
 
 <p align="center">
 <b>( article 13-b )</b><br>
-composition</p>
+Composition</p>
 
 The EC is made up of Party members who flag as volunteers and own an academic degree in the field of economy.
 
 <p align="center">
 <b>( article 13-c )</b><br>
-work order</p>
+Work order</p>
 
 I.Prepare and keep updated a macro eco-econometric report in the on-line platform in collaboration with the SELC at all levels.
 
@@ -679,7 +677,7 @@ II.Prepare for each policy proposal that answered positively to point I and nega
 
 <p align="center">
 <b>( article 14 )</b><br>
-cooperation</p>
+Cooperation</p>
 
 The work order attributed to the SC and EC is often complex and expensive thus the **PP** allows itself partnerships between these committees and other private apolitical organizations for the study of complex projects. We define these collaborations as sponsored and they’re valid only as long as they’re approved by the LCDIE when the project stems from a low impact policy proposal, the RCDIE for ordinary and medium impact proposals and the IRCDIE for high impact policies.
 
@@ -687,19 +685,19 @@ Adicionar estas ordens de trabbalhos nos outros artigs
 
 <p align="center">
 <b>( article 15 )</b><br>
-legal committee</p>
+Legal committee</p>
 
 The Legal Committee brings together party members educated in the study of the law to provide service for the party.
 
 <p align="center">
 <b>( article 15-b )</b><br>
-composition</p>
+Composition</p>
 
 They are composed of members flagged as volunteers who have an academic degree in jurisprudence.
 
 <p align="center">
 <b>( article 15-c )</b><br>
-work order</p>
+Work order</p>
 
 I.Approves a constitutional conformity certificate for each policy proposal with a rate of approval above 45%.
 
@@ -717,7 +715,7 @@ The Central Administration and the Local Administrations are executive bodies co
 
 <p align="center">
 <b>( article 16-b )</b><br>
-composition</p>
+Composition</p>
 
 Both Central and Local Administrations are composed of:
 
@@ -727,7 +725,7 @@ iI.A treasurer who does not have permanent office but is to offer remunerated se
 
 <p align="center">
 <b>( article 16-c )</b><br>
-WORK ORDER</p>
+Work order</p>
 
 I.Formalize payments necessary for the proper functioning of the party.
 
@@ -763,7 +761,7 @@ II.Appoints a secretary if the core is composed of 10 or less members or a board
 
 <p align="center">
 <b>( article 17-d )</b><br>
-work order</p>
+Work order</p>
 
 I.Produce policies related to their mission.
 
@@ -791,7 +789,7 @@ Ii.On agreement the meeting can be in-presence alternating between countries.
 
 <p align="center">
 <b>( article 18-d )</b><br>
-work order</p>
+Work order</p>
 
 I.Debates international politics.
 
@@ -799,13 +797,13 @@ Ii.Ratifies a document to be used as a guide to foreign policies.
 
 <p align="center">
 <b>( article 19 )</b><br>
-press</p>
+Press</p>
 
 The party’s press deals with political propaganda and promotes communication between members and non-members of the **PP** through the creation of media and journalistic content. The press is further divided in 3 levels; local, regional and national.
 
 <p align="center">
 <b>( article 19-b )</b><br>
-composition</p>
+Composition</p>
 
 I.An infographer flagged as a volunteer is invited and is responsible for the design and graphical edition of all the work done by the Press. It’s chosen by the SELC by and for all levels accordingly.
 
@@ -815,7 +813,7 @@ Iii.A journalist flagged as a volunteer is invited to produce articles for the n
 
 <p align="center">
 <b>( article 19-c )</b><br>
-work order</p>
+Work order</p>
 
 I.Monthly publication of the **PP** **Digital** magazine in digital format free of charges and a paid physical magazine.
 
@@ -843,13 +841,13 @@ Iv.Inclusion of interviews to personalities of the party such as members with hi
 
 <p align="center">
 <b>( article 20 )</b><br>
-archive</p>
+Archive</p>
 
 All documents produced by the main and secondary bodies of the party must be published in a physical format and be available for consultation at the corresponding headquarters as well as digitally through the on-line platform. The management of the archive is the responsibility of the Central Administration of the party.
 
 <p align="center">
 <b>( article 20-B )</b><br>
-digital database</p>
+Digital database</p>
 
 The historic of actions such as the approvals or disapprovals on policy proposals, publications in the discussion forums or on the on-line platform must be recorded in an encrypted, decentralized, signed and open sourced digital database.
 
@@ -887,7 +885,7 @@ Whenever the party’s events muster a crowd larger than 200 people, such may ha
 
 <p align="center">
 <b>( article 4 )</b><br>
-policy proposals</p>
+Policy proposals</p>
 
 Any party member can publish a new policy proposal or propose changes to an existing proposal by using the forums on the on-line platform. The proposals must consist of title, abstract and body:
 
@@ -905,7 +903,7 @@ To each of the proposed policies put forward by the party members, in addition t
 
 <p align="center">
 <b>( article 4-c )</b><br>
-rate of approval</p>
+Rate of approval</p>
 
 Through the on-line platform on the forum view party members of the **PP** can express and register in an encrypted distributed and signed digital database if they approve or reject a proposed policy or amendment of an existing policy put forward by other members.
 
@@ -923,13 +921,13 @@ vi.Policy proposals with local or global approval rates above 40% are considered
 
 <p align="center">
 <b>( article 4-d )</b><br>
-urgency</p>
+Urgency</p>
 
 Parallel to the indicator defined above, party members are invited to classify a given policy according to how urgent they consider it to be; irrelevant, of little importance, useful, important and urgent.
 
 <p align="center">
 <b>( article 4-e )</b><br>
-nature</p>
+Nature</p>
 
 I.Each policy proposal is associated with a political intervention area that should match the country’s higher level governmental organizations (i.e. the Ministries or equivalents).
 
@@ -949,7 +947,7 @@ Iv.High-impact policies are considered to be all whose financing is greater than
 
 <p align="center">
 <b>( article 5 )</b><br>
-policy evaluation period</p>
+Policy evaluation period</p>
 
 The policy evaluation period is an evaluation period of 1 year (unless otherwise ruled by the statutes) in which the policy proposals are to be discussed amongst the party members and the various party bodies before being officially inserted and accepted in the electoral programs.
 
@@ -959,7 +957,7 @@ iI.Analogously to the previous point, the evaluation time of a bill can be exten
 
 <p align="center">
 <b>( article 6 )</b><br>
-political calendar</p>
+Political calendar</p>
 
 Once several bills have been approved the impossibility may arise either due to financial limitations or lack of manpower to execute all the approved policies at one same time, thus the necessity of establishing a political calendar.
 
@@ -997,7 +995,7 @@ III.This information is to be presented and updated in real-time as much as poss
 
 <p align="center">
 <b>( article 9 )</b><br>
-vote delegation</p>
+Vote delegation</p>
 
 Any party member can delegate his/her vote on any specific policy proposal or bill, or even delegate all votes for a given political category, through the on-line platform.
 
@@ -1031,7 +1029,7 @@ Elected deputies in the name of ****PP**** are to sign **a** ****Declaration of 
 
 <p align="center">
 <b>( article 3 )</b><br>
-vote orientation</p>
+Vote orientation</p>
 
 The vote of the deputies representing the party in the parliament must be the same as the vote expressed by consensus by the party members through the on-line platform. Otherwise representatives of the **PP** can voice their personal opinions but must abstain when voting.
 
@@ -1075,13 +1073,13 @@ Financing of **PP**’s activities must conform to the **LAW OF FINANCING OF POL
 
 <p align="center">
 <b>( article 2-b )</b><br>
-contributions</p>
+Contributions</p>
 
 Membership and participation in the **PP**’s bodies is always free of charges. However, party members are welcomed to give contributions by sending cryptocurrency to the party’s wallet address. These contributions are to be publicly announced on the party’s official website and a special badge is given under the forum’s avatar of the donator in the on-line platform for a period.
 
 <p align="center">
 <b>( article 2-c )</b><br>
-REVENUE</p>
+Revenue</p>
 
 Each time a party member votes, a blockchain transaction is done. This entails a **GAS FEE** that must be paid in cryptocurrency even if the transacted value is in fact 0.
 
@@ -1089,7 +1087,7 @@ The main source for revenue for the **PP** is a fixed **PRICE** for each vote th
 
 <p align="center">
 <b>( article 3 )</b><br>
-crowdfunding</p>
+Crowdfunding</p>
 
 Members of the SCs and the ECs offer their expertise in order to improve the quality of the policies put forward by other members. In contrast to other bodies of the party, the work done by the SCs and the ECs often demands considerable human and financial resources in order to be well executed, and, in a timely manner. The on-line platform, because of its software architecture, allows for secure and transparent crowdfunding operations thanks to its blockchain implementation. Crowdfunding sessions are run automatically for each policy proposal that meet the minimum consensus requirements to be considered for an eco-economical analysis.
 
@@ -1105,13 +1103,13 @@ iv. The money is to come directly from the **PP**’s funds or from members of t
 
 <p align="center">
 <b>( article 4 )</b><br>
-cryptocurrency</p>
+Cryptocurrency</p>
 
 The cryptocurrency that is to be used by the **PP** is eth, the native cryptocurrency supported by Ethereum 2’s main-net.
 
 <p align="center">
 <b>( article 5 )</b><br>
-fixed costs</p>
+Fixed costs</p>
 
 I.Mortgages from all headquarters and their maintenance: electricity, water, telecommunications such as internet, telephone line, cleaning material and various office objects such as papers, clips, pens.
 
@@ -1137,37 +1135,37 @@ If by the end of the fiscal year the party is found to have monetary surplus at 
 
 <p align="center">
 <b>( article 8 )</b><br>
-headquarters</p>
+Headquarters</p>
 
 Choice for the location of the headquarters is made by plurinominal consensus on the on-line platform.
 
 <p align="center">
 <b>( article 8-b )</b><br>
-national headquarters</p>
+National headquarters</p>
 
 The NHQ must have 4 independent spaces: a reception hall, an archive, an auditorium with 200 seats and the CA’s office.
 
 <p align="center">
 <b>( article 8-c )</b><br>
-inter-regional headquarters</p>
+Inter-regional headquarters</p>
 
 The headquarters for the inter-regional councils must consist of 5 independent spaces: a reception hall, an archive, an auditorium with 100 seats to be used by the ISELC, the inter-regional CDIE’s office room and the **PP**’s press workspace.
 
 <p align="center">
 <b>( article 8-d )</b><br>
-regional level headquarters</p>
+Regional level headquarters</p>
 
 The headquarters to support the Regional Councils must be composed of 5 independent spaces: a reception hall, an archive, a meeting room, a meeting room with 50 seats to be used by the RSELC and the regional level CDIE’s office room.
 
 <p align="center">
 <b>( article 8-d )</b><br>
-LOCAL HEADQUARTERS</p>
+Local headquarters</p>
 
 LHQ are composed of 5 independent spaces: a reception, an archive, a meeting room with 50 seats to be used by the LSELC, an office room for the LA and an office room for the LCDIE.
 
 <p align="center">
 <b>( article 9 )</b><br>
-human resources</p>
+Human resources</p>
 
 I.Receptionist responsible for welcoming visitors which are interested to know the **PP,** informing them about the party's activities. Must make sure that recent party documentation is always updated and available. the public and managing administrative mail and e-mail.
 
@@ -1177,7 +1175,7 @@ IIi.Cleaning services for the maintenance of hygiene.
 
 <p align="center">
 <b>( article 10 )</b><br>
-typology** of party’s headquarters</p>
+Typology of party’s headquarters</p>
 
 The dimension of the spaces must be proportional to the population that they are serving:
 
