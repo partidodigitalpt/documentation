@@ -239,6 +239,8 @@ amnesic by default.<sup>[22](https://www.academia.edu/31947046/Tails_Linux_Opera
 personal smart cards with other users or sharing keys and passwords with
 the public are important.
 
+## Identity management
+
 There are currently 53 countries that have smart cards as national ID
 documents of which we found 11 to provide publicly available SDKs: in
 Belgium, Cabo Verde, Czech Republic, Estonia, Germany, Italy, Latvia,
