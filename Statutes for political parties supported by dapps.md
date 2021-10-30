@@ -281,7 +281,7 @@ SUPPLEMENTARY STATUTE</p>
 
 Anything that is not anticipated by the present statutes must follow **COUNTRY'S CONSTITUTION**, in specific **LAWS FOR POLITICAL PARTIES** and **LAWS FOR PUBLIC WORKERS**.
 
-**Internal organization**
+## Internal organization
 
 <p align="center">
 <b>( article 1 )</b><br>
