@@ -869,6 +869,8 @@ II.Part of the content will come from approved bills.
 
 III.The remaining content of the yearbook should consist of financial reports of the party's activity and the accountant’s reports.
 
+## Deliberative criteria
+
 ( article 1 )
 
 Democraticity
@@ -1017,6 +1019,8 @@ I.Bills with a global approval rate higher than 60% should be automatically incl
 
 II.Bills with a global approval rate of less than 60% but with a local approval rate higher than 60% must be included in the electoral program for the local elections.
 
+## Political positions
+
 ( article 1 )
 
 Parliamentary eligibility
@@ -1058,6 +1062,8 @@ All members of the party who exercise governmental functions must follow exclusi
 Lists
 
 ****The lists chosen to represent ****PP ****must **choose **half of the member**s** **from** both sexes.**
+
+## Management
 
 ( article 1 )
 
@@ -1189,6 +1195,8 @@ The dimension of the spaces must be proportional to the population that they are
 ||
 
 (Auditorium space can be located in independent buildings)
+
+## Temporary positions
 
 ( article 1 )
 
