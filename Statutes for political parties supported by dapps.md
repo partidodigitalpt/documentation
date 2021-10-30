@@ -20,8 +20,10 @@ Aspects to be defined at the first national congresses.
 
 ## General provisions
 
-### ( article 1 )
-**Mission**
+<p align="center">
+( article 1 )
+Mission
+</p>
 
 The **POLITICAL PARTY** is a political organization committed to building a free, just, supportive, economic and ecologically sustainable society.
 
