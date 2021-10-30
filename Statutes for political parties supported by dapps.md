@@ -295,9 +295,9 @@ II.Secondary bodies are: the Central and the Local Administrations, the Scientif
 
 III.Minor bodies: the Digital Youth and the Cores.
 
-( article 2 )
-
-moderator
+<p align="center">
+<b>( article 2 )</b><br>
+moderator</p>
 
 The moderator is summoned whenever there is a debate during **PP**’s activities where there are at most 10 people participating and its mission is to mediate the dialogue. The moderator is elected at least a week prior to the debate by plurinominal consensus between the participants of the debate on the on-line platform.
 
@@ -305,15 +305,15 @@ I.Introduces the main topics for the debate. The choice of the topics to be disc
 
 II.Manages the intervention time during the political debates guaranteeing equal opportunity of participation to everyone.
 
-( article 2-b )
-
-board** **
+<p align="center">
+<b>( article 2-b )</b><br>
+board</p>
 
 The board takes the role of the moderator for debates with more than 10 participants or in situations where the debate is expected to become too technical or too long. The choice for the board is made through plurinominal consensus between the participants in the debate on the on-line platform at least 1 week prior to the debate and is composed of up to 10 members.
 
-( article 2-c )
-
-secretary
+<p align="center">
+<b>( article 2-c )</b><br>
+secretary</p>
 
 The secretary is summoned whenever there’s a debate during **PP**’s activities and has the function of registering the event.
 
@@ -325,21 +325,21 @@ Iii**.**Responsible for recording the debate in video format and uploading it to
 
 Iv**.**The secretary can use the on-line platform to probe the opinions of the party members spectating the debates on any question that is raised during the discussion. However the results from these live referendums are not to be counted as votes on any particular matter.
 
-( article 3 )
-
-presidency** **
+<p align="center">
+<b>( article 3 )</b><br>
+presidency</p>
 
 The **PP**’s Presidency represents the party in face of other organizations in particular at the national level with foreign entities.
 
-( article 3-b )
-
-composition** **
+<p align="center">
+<b>( article 3-b )</b><br>
+composition</p>
 
 The **PP** presidency is composed of 1 member elected by plurinominal consensus on the on-line platform and 1 member elected by the Political Commission.
 
-( article 3-c )
-
-work order
+<p align="center">
+<b>( article 3-c )</b><br>
+work order</p>
 
 i.Chooses a member to participate in the High Councils.
 
@@ -349,57 +349,57 @@ iii. Officially represents the **PP** in face of other institutions.
 
 iv. Can make announcements that are seen by all the party members in the on-line platform.
 
-( article 4 )
-
-national congress
+<p align="center">
+<b>( article 4 )</b><br>
+national congress</p>
 
 The National Congress is the body that gathers the largest number of participants and may take place in any agreed location.
 
 I.The venue and organization of the event must be prepared to accommodate the expected number of participants and its organization is the responsibility of the Central Administration (CA).
 
-( article 4-b )
-
-Convocation** **
+<p align="center">
+<b>( article 4-b )</b><br>
+Convocation</p>
 
 It meets extraordinarily at request by reaching consensus through the on-line platform of at least ¼ of the party members.
 
-( article 4-c )
-
-composition** **
+<p align="center">
+<b>( article 4-c )</b><br>
+composition</p>
 
 I.**PP** members and sympathizers can participate in the National Congress.
 
 Ii.****The choice of the National Congress board is made by plurinominal consensus by the Political Commission.
 
-( article 4-d )
-
-work order** **
+<p align="center">
+<b>( article 4-d )</b><br>
+work order</p>
 
 Ratifies changes to the party's statutes.
 
-( Article 5 )
-
-High Councils** **
+<p align="center">
+<b>( article 5 )</b><br>
+High Councils</p>
 
 The function of the High Councils is to carry out a plural and informed debate on trending policy proposals.
 
 The political discussions are directed at populations that share the same state, macroregions, groups of autonomous communities, bundesländer, etc., or equivalents following the Nomenclature of Territorial Units for Statistics, also known as NUTS, geocoded NUTS 1.
 
-( article 5-b )
-
-convocation** **
+<p align="center">
+<b>( article 5-b )</b><br>
+Convocation</p>
 
 Meets monthly in the party’s NHQ, i.e.: during new moon’s eve.
 
-( article 5-c )
-
-composition** **
+<p align="center">
+<b>( article 5-c )</b><br>
+Composition</p>
 
 It’s composed of a member chosen by plurinominal consensus by the Political Commission; an economist, an engineer and a jurist proposed by the same method by the Scientific-economical and Legal Coordination; the most influential member of the **PP **(member with most delegations) and a member chosen at random from amongst the party, both considering the area of influence defined by the particular High Council; one member elected by the Presidency; one put forward by the Digital Youth. Totalling 8 participants.
 
-( article 5-d )
-
-work order
+<p align="center">
+<b>( article 5-d )</b><br>
+Work order</p>
 
 I.Debates policy proposals put forward by the party members that have a global rate of approval higher than 40%.
 
@@ -407,29 +407,29 @@ Ii.Shortens or extends the evaluation period of policy proposals.
 
 IiI.Proposes a schedule for the execution of the approved bills taking into account the priority and importance of each one of the proposals and the need to manage limited resources.
 
-( article 6 )
-
-Local councils** **
+<p align="center">
+<b>( article 6 )</b><br>
+Local Councils</p>
 
 Local councils have the function of debating policy proposals put forward by party members. They gather a high number of participants who share geographical proximity in the area of residency. It corresponds to the unit with most proximity impact and is analogue to the roles of municipalities, communes, kommuner, parishes, települések, etc. or LAUs following NUTS geocodes.
 
-( article 6-b )
-
-convocation** **
+<p align="center">
+<b>( article 6-b )</b><br>
+Convocation</p>
 
 The event takes place monthly in large open spaces such as in city parks or inside public pavilions, i.e.: *d*uring full moon’s eve.
 
-( article 6-c )
-
-Composition** **
+<p align="center">
+<b>( article 6-c )</b><br>
+Composition</p>
 
 I.Party members residing in the corresponding administrative region defined in article 6 can participate in the Local Council debates.
 
 ii.Up to 10 party members from the Local Council, elected by plurinominal consensus between the peers, are invited to form a board.
 
-( article 6-d )
-
-work order
+<p align="center">
+<b>( article 6-d )</b><br>
+work order</p>
 
 I.Debates current policy proposals put forward by the party members with a local rate of approval higher than 25%.
 
@@ -439,27 +439,27 @@ Iii.Elects by plurinominal consensus 10 members from amongst the peers who make 
 
 Iv.Proposes a schedule for the execution of the approved bills with low economical impact.
 
-( article 7 )
-
-regional councILS
+<p align="center">
+<b>( article 7 )</b><br>
+regional councILS</p>
 
 The regional councils have the function of debating policies proposed by the party members whose impact can influence the cultural-socio-economic dynamics of the community reinforcing regional unity. There is 1 instance for each administrative division of the land corresponding to the second smallest unit of government, traditionally akin to counties/municipalities, regional authorities, prefectures, arrondissements, kreis, kraje, daira, etc., geocoded NUTS 3.
 
-( article 7-b )
-
-Convocation** **
+<p align="center">
+<b>( article 7-b )</b><br>
+Convocation</p>
 
 Meets twice monthly at the corresponding RHQs, i.e: on the first and last quarter moon’s eve.
 
-( article 7-c )
-
-composition** **
+<p align="center">
+<b>( article 7-c )</b><br>
+composition</p>
 
 A party member elected by each one of the **PP**’s local electoral list of representative candidates.
 
-( article 7-d )
-
-work order
+<p align="center">
+<b>( article 7-d )</b><br>
+work order</p>
 
 I.Debates policies put forward by members of the party that have a local rate of approval above 35%.
 
@@ -471,57 +471,57 @@ Iv.Elects by simple majority the representative who will be part of the correspo
 
 v.Proposes a schedule for the execution of the approved bills with ordinary and medium economical impact, taking into account the priority and importance of each of the proposals and the management of limited resources.
 
-( article 8 )
-
-inter-regional councils
+<p align="center">
+<b>( article 8 )</b><br>
+inter-regional councils</p>
 
 Given the difficulty of bringing together a large number of participants in the same physical space, the inter-regional councils reinforce the territorial unity by interconnecting the various regional councils in the country.
 
 Akin to states, departments, wilayas or geocode NUTS 2.
 
-( article 8-b )
-
-convocation** **
+<p align="center">
+<b>( article 8-b )</b><br>
+convocation</p>
 
 Meets twice monthly alternating between the corresponding IHQs, i.e.: during waxing and waning crescent moons.
 
-( article 8-c )
-
-Composition** **
+<p align="center">
+<b>( article 8-c )</b><br>
+Composition</p>
 
 It’s composed of members proposed by each of the Regional Councils that are part of the same political administrative regions.
 
-( article 8-d )
-
-work order
+<p align="center">
+<b>( article 8-d )</b><br>
+work order</p>
 
 I.Debates policy proposals put forward by party members that have a global rate of approval higher than 30%.
 
 II.Proposes a schedule for the execution of approved bills of high economical impact, taking into account the priority and importance of each of the proposals and the management of limited resources.
 
-( article 9 )
-
-political commission
+<p align="center">
+<b>( article 9 )</b><br>
+political commission</p>
 
 It is an organ whose purpose is to reinforce territorial unity. It is responsible for electing **PP**’s** **representatives for parliamentary seats.
 
-( article 9-b )
-
-convocation
+<p align="center">
+<b>( article 9-b )</b><br>
+convocation</p>
 
 I.Meets at least 4 times annually: ordinarily 4 times during equinoxes and solstice's eve and extraordinarily in case of anticipated elections or demission of deputies from the parliament
 
 II.It also reunites extraordinarily in case of political turmoil such as by anticipated political elections or in the event of demission of a representative from the parliament.
 
-( article 9-c )
-
-composition** **
+<p align="center">
+<b>( article 9-c )</b><br>
+composition</p>
 
 One member elected by each of the Inter-regional Councils.
 
-( article 9-d )
-
-work order
+<p align="center">
+<b>( article 9-d )</b><br>
+work order</p>
 
 I.Draws up and ratifies a document containing general lines of political strategy for governance of the country at the beginning of each electoral cycle.
 
