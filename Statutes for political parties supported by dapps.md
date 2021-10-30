@@ -6,6 +6,18 @@ Fundamental principles to which party members adhere as well as general aspects;
 **Chapter II: Internal organization**\
 Dates for the meetings, mission and composition of the party bodies; work orders and other details regarding management such as the role of the treasurer, moderators and secretaries.
 
+**Chapter III: Deliberative criteria**\
+Rules for decision-making and internal communication as well as criteria for establishing the political program.
+
+**Chapter IV: Political positions**\
+Internal organization; rules and procedures regarding lists of  candidates for public office and respective voting discipline.
+
+**Chapter V: Management**\
+Financing of party activities, transparency.
+
+**Chapter VI: Temporary provisions**\
+Aspects to be defined at the first national congresses.
+
 ## General provisions
 
 ### ( article 1 )
