@@ -1,26 +1,5 @@
 # Statutes for political parties supported by dapps
 
-INDEX
-
-**Chapter I: General provisions**\
-Fundamental principles to which party members adhere as well as general aspects; name, acronym, membership, working tools and partnerships.
-
-**Chapter II: Internal organization**\
-Dates for the meetings, mission and composition of the party bodies; work orders and other details regarding management such as the role of the treasurer, moderators and secretaries.
-
-**Chapter III: Deliberative criteria**\
-Rules for decision-making and internal communication as well as criteria for establishing the political program.
-
-**Chapter IV: Political positions**\
-Internal organization; rules and procedures regarding lists of  candidates for public office and respective voting discipline.
-
-**Chapter V: Management**\
-Financing of party activities, transparency.
-
-**Chapter VI: Temporary provisions**\
-Aspects to be defined at the first national congresses.
-
-
 ## General provisions
 
 <p align="center">
@@ -1202,3 +1181,24 @@ Establishes at least 1 temporary instance of a Local Council, a Regional Council
 4th national congress
 
 Delivering all the necessary signatures to the respective court marking the official birth of the **PP**. Place and venue decided during the 3rd National Congress.
+
+
+INDEX
+
+**Chapter I: General provisions**\
+Fundamental principles to which party members adhere as well as general aspects; name, acronym, membership, working tools and partnerships.
+
+**Chapter II: Internal organization**\
+Dates for the meetings, mission and composition of the party bodies; work orders and other details regarding management such as the role of the treasurer, moderators and secretaries.
+
+**Chapter III: Deliberative criteria**\
+Rules for decision-making and internal communication as well as criteria for establishing the political program.
+
+**Chapter IV: Political positions**\
+Internal organization; rules and procedures regarding lists of  candidates for public office and respective voting discipline.
+
+**Chapter V: Management**\
+Financing of party activities, transparency.
+
+**Chapter VI: Temporary provisions**\
+Aspects to be defined at the first national congresses.
