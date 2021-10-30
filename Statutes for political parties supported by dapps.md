@@ -37,7 +37,7 @@ The **POLITICAL PARTY** adopts the acronym **PP** and the **SYMBOL** as a symbol
 
 <p align="center">
 <b>( article 3 )</b><br>
-Recognition of the **CONSTITUTION** and the **Universal Declaration of Human Rights**
+Recognition of the <b>CONSTITUTION</b> and the <b>Universal Declaration of Human Rights</b>
 </p>
 
 I.**PP** members recognize that the **LETTER** approved on **DATE** by the **POLITICAL BODY** constitutes the fundamental law prior to which all other laws are subdued.
