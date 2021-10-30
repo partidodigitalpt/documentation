@@ -30,8 +30,10 @@ Mission
 
 The **POLITICAL PARTY** is a political organization committed to building a free, just, supportive, economic and ecologically sustainable society.
 
-### ( article 2 )
-**Acronym, symbol, flag and anthem**
+<p align="center">
+<b>( article 2 )</b><br>
+Acronym, symbol, flag and anthem
+</p>
 
 The **POLITICAL PARTY** adopts the acronym **PP** and the **SYMBOL** as a symbol which represents the new possibilities yet to be discovered from delegative democracy with the use of the internet. The background colour of the flag is **COLOUR** which represents **COLOUR INTERPRETATION**. **SONG** is the anthem.
 
