@@ -395,13 +395,6 @@ Storage System", Moses Arhinful Acquah et al, Shandong University of
 Science and Technology, Shandong, China, 2020,
 [*https://res.mdpi.com/d_attachment/symmetry/symmetry-12-00951/article_deploy/symmetry-12-00951-v2.pdf*](https://res.mdpi.com/d_attachment/symmetry/symmetry-12-00951/article_deploy/symmetry-12-00951-v2.pdf)
 
-\[?\] "ethVote: Towards secure voting with distributed ledgers",
-Johannes M. and Emmanouil V., International Conference on Cyber Security
-and Protection of Digital Services, 2020.
-*https://www.researchgate.net/publication/341000573_ethVote_Towards_secure_voting_with_distributed_ledgers*
-
-\[?\] Semaphore, https://semaphore.appliedzkp.org/
-
 Available SDKs
 
 [Belgium](https://github.com/Fedict/eid-mw),
@@ -416,3 +409,12 @@ Available SDKs
 [Perú](https://dnielectronico.pe/) (OpenSC),
 [Portugal](https://github.com/amagovpt/autenticacao.gov),
 [Uruguay](https://github.com/eIDuy/apdu-services)
+
+Other resources
+
+"ethVote: Towards secure voting with distributed ledgers",
+Johannes M. and Emmanouil V., International Conference on Cyber Security
+and Protection of Digital Services, 2020.
+*https://www.researchgate.net/publication/341000573_ethVote_Towards_secure_voting_with_distributed_ledgers*
+
+Semaphore, https://semaphore.appliedzkp.org/
