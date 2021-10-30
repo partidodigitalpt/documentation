@@ -2,7 +2,7 @@
 
   We can divide the process of voting in 4 distinct categories: In-person
 paper voting, In-person e-voting, Remote paper voting and Remote
-e-voting.<sup>[1]</sup>(https://github.com/Fedict/eid-mw) Electoral processes must guarantee certain proprieties as
+e-voting.<sup>[1](https://github.com/Fedict/eid-mw)</sup> Electoral processes must guarantee certain proprieties as
 well as provide cybersecurity when done electronically<sup>\[2\]</sup>. The goal of
 this short paper is to do a small overview of the current tools of the
 ecosystem of remote e-voting and pin-point key components that will play
