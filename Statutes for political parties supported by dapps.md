@@ -57,9 +57,10 @@ II.The on-line platform must deploy the most advanced technologies for identity 
 
 Iii.Backup copies of the database must be periodically made and saved in digital as well as in written physical format and made available to anyone at any time in the various headquarters of the party.
 
-( article 4-b )
-
-functionalities
+<p align="center">
+<b>( article 4-b )</b><br>
+Functionalities
+</p>
 
 Through the on-line platform the party members are able to:
 
@@ -71,9 +72,10 @@ III.Members may propose policies and vote on-line on their own computer in any l
 
 Iv.Members are able to delegate to other members the ability to vote on a specific policy or on a category of policies and retract the delegation at any time. Delegation is transitive unless stated otherwise.
 
-( article 4-c )
-
+<p align="center">
+<b>( article 4-c )</b><br>
 discussion forum
+</p>
 
 The on-line platform has a specific view; an on-line bulletin board, also known as a forum, to be used for political discourse where:
 
@@ -83,15 +85,17 @@ II.Topics are categorized according to different areas of governance.
 
 III. Moderation is user-centric meaning no special roles are assigned to any user.
 
-( article 4-d )
-
+<p align="center">
+<b>( article 4-d )</b><br>
 hemicycle and geopolitical map
+</p>
 
 The hemicycle and geopolitical map are views in the on-line platform that allow for quick analyses of the **PP’**s (or other relevant political) events by means of visual representations such as mimicking a real hemicycle or pinpointing geometrical figures in a map accordingly.
 
-( article 5 )
-
+<p align="center">
+<b>( article 5 )</b><br>
 Registration as a party member
+</p>
 
 The enrolment in the **PP** is an individual choice and requires the payment of a small fee in cryptocurrency while also providing a passphrase and following the registration procedure on the on-line platform. Raw biometric data is never to be kept in any database.
 
@@ -103,9 +107,10 @@ IIi.Conflicts regarding member’s claims to on-line identities are mediated by 
 
 IV.False claims to real identities can initiate legal procedures.
 
-( article 5-b )
-
+<p align="center">
+<b>( article 5-b )</b><br>
 Membership requirements
+</p>
 
 I.All **NATIONAL** citizens who are not registered in other political parties, who are over 21 years of age in full enjoyment of their civil rights and who act in accordance with the present statutes can have full membership (militancy) in the **PP**.
 
@@ -115,17 +120,19 @@ III.All **NATIONAL** citizens over 16 years of age and who act in accordance wit
 
 Iv.All **NATIONAL** citizens between 16 and 21 years of age may join the **PP **as members of the Digital Youth.
 
-( Article 5-c )
-
+<p align="center">
+<b>( article 5-c )</b><br>
 Bond to the place of residence
+</p>
 
 I.**PP**’s membership is associated with area of residency.
 
 II.****It is also the responsibility of the party members to keep personal data updated, uploading changes to the residential address through the on-line platform.
 
-( article 5-d )
-
+<p align="center">
+<b>( article 5-d )</b><br>
 Sympathizers
+</p>
 
 The statute of sympathizer shares the same rights and duties of party members with exceptions:
 
@@ -133,9 +140,10 @@ I.May not elect or be elected to any of the party bodies.
 
 Ii.Cannot vote on policies (participate in on-line referendums) and cannot reply to or post publications on the discussion forum.
 
-( article 6 )
-
-Digital Youth** **
+<p align="center">
+<b>( article 6 )</b><br>
+Digital Youth
+</p>
 
 The party youth organization is the Digital Youth (DY).
 
@@ -145,23 +153,26 @@ I.Digital Youth as members of the **PP** can congregate and participate fully on
 
 II.Digital Youth cannot vote on policies but as an organization has autonomy in the elaboration of its own political program.
 
-( ARTICLE 7 )
-
+<p align="center">
+<b>( article 7 )</b><br>
 Unio Partio Digita
+</p>
 
 The party is a member of the Unio Partio Digita which consists of an association of political parties that share the same statutes as the **PP** and whose official page can be found at **uniopartiodigita.org**.
 
-( article 8 )
-
+<p align="center">
+<b>( article 8 )</b><br>
 Incompatibility regime
+</p>
 
 I.**PP** members may hold no more than one position within the party official structures unless otherwise stated (i.e.: the cores).
 
 Ii.Members being remunerated by the **PP** must act in accordance to **LAW** regarding the incompatibility regime followed by the national deputies. Supervision is made by the Coordination for Defence of Integrity and Ethics (CDIE) at all levels (local, regional and inter-regional).
 
-( article 9 )
-
+<p align="center">
+<b>( article 9 )</b><br>
 Rights and duties of Party members
+</p>
 
 ****It is the right of members of the **PP** to participate in all activities, to formulate any suggestion or criticism that may be deemed convenient or to propose new policies or changes to existing ones. Everything should be doable with the support of the on-line platform. Alternatively, **PP** welcomes paper-based proposals and referendums.
 
@@ -175,9 +186,9 @@ IV.****Members are entitled free access to all documents ratified by party bodie
 
 V.****It is duty to perform with zeal, assiduity and loyalty to the other members the positions or functions entrusted to them.
 
-( article 10 )
-
-work
+<p align="center">
+<b>( article 10 )</b><br>
+work</p>
 
 Party members are invited to contribute to the elaboration and supervision of all types of political projects. To be eligible, they must inform the party of their availability and area of expertise through the on-line platform.
 
@@ -189,15 +200,15 @@ III.****The adjudication, management and supervision of the works are of the res
 
 IV.****Work offered to the party can be remunerated. Conditions for eligibility, sources of financing and the procedures for the payments are established in Chapter V – Management.
 
-( article 11 )
-
-Withdrawal
+<p align="center">
+<b>( article 11 )</b><br>
+Withdrawal</p>
 
 Membership withdrawal can be done at any time without any prejudice and with immediate effect.
 
-( ARTICLE 12 )
-
-Penalties
+<p align="center">
+<b>( article 12 )</b><br>
+Penalties</p>
 
 By going against these statutes to which members of the party agreed upon joining, the party members may be alerted or have their membership retracted to the status of sympathizer for a temporary period or, for repeated misbehaviour or inexcusable situations such as; attempt to attack the informatic system or publishing inappropriate content into the on-line platform, the membership status may be revoked permanently. The decision to expel a party member is made by democratic consensus on the on-line platform. The party member may have the membership status reverted to sympathizer in situations of:
 
@@ -215,23 +226,23 @@ Vi.****It's considered sufficient reason to ban a member from the party if unjus
 
 Vii.****It’s the responsibility of the CDIEs at all levels to evaluate situations described above and to publish alerts on the on-line platform and, in particular to the users who may not respecting the statutes, whenever the CDIEs consider appropriate to do so.
 
-( article 13 )
-
-bodies
+<p align="center">
+<b>( article 13 )</b><br>
+bodies</p>
 
 There are 22** **different bodies that contribute to the normal functioning of the **PP**.** **Some of these bodies are singular while others compose multiple instances in different geographical locations. These bodies are further divided into main, secondary and minor categories; the main bodies focus on political debates while secondary bodies do the technical support necessary for these discussions. Minor bodies are composed of members of the **PP** without full membership or are bodies that focus on particular tasks or political projects. The convocation, composition and work order are specified in the statutes of the next chapter.
 
-( article 13-b )
-
-administrative regions
+<p align="center">
+<b>( article 13-b )</b><br>
+administrative regions</p>
 
 Some of the **PP**’s bodies are further divided into **LOCAL**, **REGIONAL**, **INTER-REGIONAL** and **NATIONAL** structures. The choice for these terms derives from the administrative division of the land following the **LAW **in use by **COUNTRY**.
 
 I.****Unless stated otherwise party members cannot partake in activities of bodies that do not share the same administrative region as defined by their own residential address.
 
-( article 14 )
-
-headquarters
+<p align="center">
+<b>( article 14 )</b><br>
+headquarters</p>
 
 **PP** has National Headquarters (NHQ) in the capital, Local Headquarters (LHQ) at each of the smallest administrative regions of the country, Regional Headquarters (RHQ) and Inter-regional Headquarters (IHQ) within the boundaries and intersections of the corresponding administrative regions. It's in these spaces that some of the party bodies do their work. Financing and the architectural requirements for these spaces is established in Chapter V, Article 10 – Typology of the party headquarters.
 
@@ -241,9 +252,10 @@ ii.The existence of IHQ, RHQ and LHQ are required only and whenever the number o
 
 iii.****The choice of these spaces must be made through democratic consensus on the on-line platform.
 
-( ARTICLE 15 )
+<p align="center">
+<b>( article 15 )</b><br>
+CONTACTS</p>
 
-CONTACTS
 
 Management of the party’s official mail and e-mails is made by either the CA or the corresponding LAs.
 
@@ -253,9 +265,9 @@ II.**** The official mail addresses for the **PP** are the corresponding address
 
 IIi.**** Each of the party’s bodies other than cores have an official e-mail with the same **@URL **ending.
 
-( article 15-b )
-
-website
+<p align="center">
+<b>( article 15-b )</b><br>
+website</p>
 
 The offici5al website of the **PP** serves the triple propose of distributing documentation created during party's work, recruiting new members and as a means for communication with external entities.
 
@@ -263,19 +275,17 @@ I.Maintenance and updates to the website are responsibility of **PP**'s CA and P
 
 II.****The website should at least link to **PP**'s manifesto, the party's statutes, contacts and dapp download.
 
-( article 16 )
+<p align="center">
+<b>( article 16 )</b><br>
+SUPPLEMENTARY STATUTE</p>
 
-SUPPLEMENTARY STATUTE
+Anything that is not anticipated by the present statutes must follow **COUNTRY'S CONSTITUTION**, in specific **LAWS FOR POLITICAL PARTIES** and **LAWS FOR PUBLIC WORKERS**.
 
- Anything that is not anticipated by the present statutes must follow **COUNTRY'S CONSTITUTION**, in specific **LAWS FOR POLITICAL PARTIES** and **LAWS FOR PUBLIC WORKERS**.
+**Internal organization**
 
-**Chapter **II**: **Internal organization**. . . . . . . . . . . . . **12**
-
-**Dates **for** the meetings, mission and composition of the **party bodies**; **work orders **and other details regarding management such as the role of the treasurer, moderators and **secretaries**.**
-
-** **( article 1 )
-
-Internal organization
+<p align="center">
+<b>( article 1 )</b><br>
+Internal organization</p>
 
 This chapter explains the objective for which each of the party’s bodies were thought of as well as their operating rules and how they should interrelate during party’s work.
 
