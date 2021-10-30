@@ -1,4 +1,4 @@
-# documentation
+# Docs
 
 Remote e-voting overview, a paper submission to the ICEGOV 14th
 
