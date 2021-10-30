@@ -52,7 +52,7 @@ that decided the destiny of 527 community projects. The trial used
 blockchain for improved security which has seen strong support for
 adoption by national authorities that plan to invest \$380 million
 between 2021-2026. The Ministry of Science and Technology plans to
-implement DID<sup>\[5\]</sup> at a national level by the end of 2022.<sup>\[6\]</sup>
+implement DID<sup>[5]()</sup> at a national level by the end of 2022.<sup>[6]()</sup>
 
 Other trials have been conducted with relative success at varied scales
 in other countries as the technology behind remote e-voting becomes
