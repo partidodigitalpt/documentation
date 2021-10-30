@@ -7,7 +7,6 @@ Fundamental principles to which party members adhere as well as general aspects;
 Dates for the meetings, mission and composition of the party bodies; work orders and other details regarding management such as the role of the treasurer, moderators and secretaries.
 
 ## General provisions
-Fundamental principles to which party members adhere as well as general aspects; name, acronym, membership, working tools and partnerships.
 
 ### ( article 1 )
 **Mission**
