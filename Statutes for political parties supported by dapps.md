@@ -1,5 +1,7 @@
 # Statutes for political parties supported by dapps
 
+INDEX
+
 **Chapter I: General provisions**\
 Fundamental principles to which party members adhere as well as general aspects; name, acronym, membership, working tools and partnerships.
 
@@ -17,6 +19,7 @@ Financing of party activities, transparency.
 
 **Chapter VI: Temporary provisions**\
 Aspects to be defined at the first national congresses.
+
 
 ## General provisions
 
