@@ -1185,7 +1185,7 @@ TO-DO / ADD TABLE HERE
 
 (Auditorium space can be located in independent buildings)
 
-## Temporary positions
+## Temporary provisions
 
 <p align="center">
 <b>( article 1 )</b><br>
