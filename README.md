@@ -1,2 +1,5 @@
 # documentation
-Initial thoughts put on paper. Collaborative development is welcomed.
+
+Remote e-voting overview, a paper submission to the ICEGOV 14th
+
+Statutes for political parties supported by dapps
