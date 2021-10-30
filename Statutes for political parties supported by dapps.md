@@ -1,23 +1,23 @@
 # Statutes for political parties supported by dapps
-
-**General provisions**:
+<ul>
+<li>**General provisions**:</li>
 Fundamental principles to which party members adhere as well as general aspects; name, acronym, membership, working tools and partnerships.
 
-**Internal organization**:
+<li>**Internal organization**:</li>
 Dates for the meetings, mission and composition of the party bodies; work orders and other details regarding management such as the role of the treasurer, moderators and secretaries.
 
-**Deliberative criteria**:
+<li>**Deliberative criteria**:</li>
 Rules for decision-making and internal communication as well as criteria for establishing the political program.
 
-**Political positions**:
+<li>**Political positions**:</li>
 Internal organization; rules and procedures regarding lists of  candidates for public office and respective voting discipline.
 
-**Management**:
+<li>**Management**:</li>
 Financing of party activities, transparency.
 
-**Temporary provisions**:
+<li>**Temporary provisions**:</li>
 Aspects to be defined at the first national congresses.
-
+</ul>
 
 ## General provisions
 
