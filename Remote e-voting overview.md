@@ -122,7 +122,7 @@ layers. With proper design each layer can be checked as well as the
 transactions in-between. Some interesting remote e-voting systems that
 offer end-to-end verifiability, under certain configuration assumptions,
 that were found during our research were Remotegrity<sup>[9](https://eprint.iacr.org/2013/214.pdf)</sup>, EVIV<sup>[10](https://github.com/EVIVoting/EVIV)</sup> and
-VoteAgain<sup>[11](https://arxiv.org/abs/2005.11189, https://github.com/spring-epfl/voteagain)</sup>.
+VoteAgain<sup>[11](https://arxiv.org/abs/2005.11189)</sup>.
 
 ### Public-Key, Zero-Knowledge and Homomorphic Encryption
 
