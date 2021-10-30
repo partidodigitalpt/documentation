@@ -1,5 +1,3 @@
-# Docs
-
 ### Remote e-voting overview
 A paper submission to the [14th ICEGOV Conference](https://www.icegov.org/).
 
