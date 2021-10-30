@@ -118,7 +118,7 @@ II.It follows from **LAW** that membership is forbidden to citizens belonging to
 
 III.All **NATIONAL** citizens over 16 years of age and who act in accordance with these statutes may join **PP** as sympathizers.
 
-Iv.All **NATIONAL** citizens between 16 and 21 years of age may join the **PP **as members of the Digital Youth.
+Iv.All **NATIONAL** citizens between 16 and 21 years of age may join the **PP** as members of the Digital Youth.
 
 <p align="center">
 <b>( article 5-c )</b><br>
@@ -127,12 +127,11 @@ Bond to the place of residence
 
 I.**PP**’s membership is associated with area of residency.
 
-II.****It is also the responsibility of the party members to keep personal data updated, uploading changes to the residential address through the on-line platform.
+II.It is also the responsibility of the party members to keep personal data updated, uploading changes to the residential address through the on-line platform.
 
 <p align="center">
 <b>( article 5-d )</b><br>
-Sympathizers
-</p>
+Sympathizers</p>
 
 The statute of sympathizer shares the same rights and duties of party members with exceptions:
 
@@ -142,8 +141,7 @@ Ii.Cannot vote on policies (participate in on-line referendums) and cannot reply
 
 <p align="center">
 <b>( article 6 )</b><br>
-Digital Youth
-</p>
+Digital Youth</p>
 
 The party youth organization is the Digital Youth (DY).
 
@@ -174,17 +172,17 @@ Ii.Members being remunerated by the **PP** must act in accordance to **LAW** reg
 Rights and duties of Party members
 </p>
 
-****It is the right of members of the **PP** to participate in all activities, to formulate any suggestion or criticism that may be deemed convenient or to propose new policies or changes to existing ones. Everything should be doable with the support of the on-line platform. Alternatively, **PP** welcomes paper-based proposals and referendums.
+It is the right of members of the **PP** to participate in all activities, to formulate any suggestion or criticism that may be deemed convenient or to propose new policies or changes to existing ones. Everything should be doable with the support of the on-line platform. Alternatively, **PP** welcomes paper-based proposals and referendums.
 
 I.Decisions at all levels are to be made by democratic consensus.
 
-II.****Every member of the party has the right to elect and be elected to any of the party’s departments and to work for them.
+II.Every member of the party has the right to elect and be elected to any of the party’s departments and to work for them.
 
-III.****The right to be informed in a transparent and clear way about all economical activities of the party.
+III.The right to be informed in a transparent and clear way about all economical activities of the party.
 
-IV.****Members are entitled free access to all documents ratified by party bodies that result from internal referendums held during the normal functioning of the party. The information must be available in digital format found on the on-line platform and in physical format in a Yearbook of the **PP** accessible at the party’s headquarters at all levels (local, regional, inter-regional and national).
+IV.Members are entitled free access to all documents ratified by party bodies that result from internal referendums held during the normal functioning of the party. The information must be available in digital format found on the on-line platform and in physical format in a Yearbook of the **PP** accessible at the party’s headquarters at all levels (local, regional, inter-regional and national).
 
-V.****It is duty to perform with zeal, assiduity and loyalty to the other members the positions or functions entrusted to them.
+V.It is duty to perform with zeal, assiduity and loyalty to the other members the positions or functions entrusted to them.
 
 <p align="center">
 <b>( article 10 )</b><br>
@@ -192,13 +190,13 @@ work</p>
 
 Party members are invited to contribute to the elaboration and supervision of all types of political projects. To be eligible, they must inform the party of their availability and area of expertise through the on-line platform.
 
-I.****By signing up as volunteers and depending on the academic background, members are able to exercise functions in the Scientific Committee (SC), Economic Committee (EC), Legal Committee (LC) as well as in and the body responsible for their coordination, the Scientific-economic and Legal Coordination (SELC) which have structures at all levels but national (local, regional and inter-regional).
+I.By signing up as volunteers and depending on the academic background, members are able to exercise functions in the Scientific Committee (SC), Economic Committee (EC), Legal Committee (LC) as well as in and the body responsible for their coordination, the Scientific-economic and Legal Coordination (SELC) which have structures at all levels but national (local, regional and inter-regional).
 
 II.For the academic background to be validated party members need to submit to the on-line platform a digital certificate issued by universities.
 
-III.****The adjudication, management and supervision of the works are of the responsibility of the SELC and the CDIEs.
+III.The adjudication, management and supervision of the works are of the responsibility of the SELC and the CDIEs.
 
-IV.****Work offered to the party can be remunerated. Conditions for eligibility, sources of financing and the procedures for the payments are established in Chapter V – Management.
+IV.Work offered to the party can be remunerated. Conditions for eligibility, sources of financing and the procedures for the payments are established in Chapter V – Management.
 
 <p align="center">
 <b>( article 11 )</b><br>
@@ -212,33 +210,33 @@ Penalties</p>
 
 By going against these statutes to which members of the party agreed upon joining, the party members may be alerted or have their membership retracted to the status of sympathizer for a temporary period or, for repeated misbehaviour or inexcusable situations such as; attempt to attack the informatic system or publishing inappropriate content into the on-line platform, the membership status may be revoked permanently. The decision to expel a party member is made by democratic consensus on the on-line platform. The party member may have the membership status reverted to sympathizer in situations of:
 
-I.****Not informing the party after changing area of residency upon a period of up to 90 days through the on-line platform.
+I.Not informing the party after changing area of residency upon a period of up to 90 days through the on-line platform.
 
-II.****Not partaking in party's activities by voting directly or by delegating the right to vote for a period longer than 180 days.
+II.Not partaking in party's activities by voting directly or by delegating the right to vote for a period longer than 180 days.
 
 III.Not participating on off-line events of any of the party’s bodies for a period longer than 270 days.
 
 Iv. By not respecting the deadlines or tasks that were entrusted by the party and accepted by the party member, the membership may be revoked temporarily for a period of up to 1 year.
 
-V.****Publishing pornography, inciting to any kind of physical violence or any form of hate speech against minorities be it of ethnographical origin, attacking normal sexual orientation (hetero-homo-bi) or making false accusations against other members may be reason enough to be banned for a period longer than 1 year.
+V.Publishing pornography, inciting to any kind of physical violence or any form of hate speech against minorities be it of ethnographical origin, attacking normal sexual orientation (hetero-homo-bi) or making false accusations against other members may be reason enough to be banned for a period longer than 1 year.
 
-Vi.****It's considered sufficient reason to ban a member from the party if unjustified false information is uploaded to the on-line platform.
+Vi.It's considered sufficient reason to ban a member from the party if unjustified false information is uploaded to the on-line platform.
 
-Vii.****It’s the responsibility of the CDIEs at all levels to evaluate situations described above and to publish alerts on the on-line platform and, in particular to the users who may not respecting the statutes, whenever the CDIEs consider appropriate to do so.
+Vii.It’s the responsibility of the CDIEs at all levels to evaluate situations described above and to publish alerts on the on-line platform and, in particular to the users who may not respecting the statutes, whenever the CDIEs consider appropriate to do so.
 
 <p align="center">
 <b>( article 13 )</b><br>
 bodies</p>
 
-There are 22** **different bodies that contribute to the normal functioning of the **PP**.** **Some of these bodies are singular while others compose multiple instances in different geographical locations. These bodies are further divided into main, secondary and minor categories; the main bodies focus on political debates while secondary bodies do the technical support necessary for these discussions. Minor bodies are composed of members of the **PP** without full membership or are bodies that focus on particular tasks or political projects. The convocation, composition and work order are specified in the statutes of the next chapter.
+There are **22** different bodies that contribute to the normal functioning of the **PP**. Some of these bodies are singular while others compose multiple instances in different geographical locations. These bodies are further divided into main, secondary and minor categories; the main bodies focus on political debates while secondary bodies do the technical support necessary for these discussions. Minor bodies are composed of members of the **PP** without full membership or are bodies that focus on particular tasks or political projects. The convocation, composition and work order are specified in the statutes of the next chapter.
 
 <p align="center">
 <b>( article 13-b )</b><br>
 administrative regions</p>
 
-Some of the **PP**’s bodies are further divided into **LOCAL**, **REGIONAL**, **INTER-REGIONAL** and **NATIONAL** structures. The choice for these terms derives from the administrative division of the land following the **LAW **in use by **COUNTRY**.
+Some of the **PP**’s bodies are further divided into **LOCAL**, **REGIONAL**, **INTER-REGIONAL** and **NATIONAL** structures. The choice for these terms derives from the administrative division of the land following the **LAW** in use by **COUNTRY**.
 
-I.****Unless stated otherwise party members cannot partake in activities of bodies that do not share the same administrative region as defined by their own residential address.
+I.Unless stated otherwise party members cannot partake in activities of bodies that do not share the same administrative region as defined by their own residential address.
 
 <p align="center">
 <b>( article 14 )</b><br>
@@ -246,24 +244,23 @@ headquarters</p>
 
 **PP** has National Headquarters (NHQ) in the capital, Local Headquarters (LHQ) at each of the smallest administrative regions of the country, Regional Headquarters (RHQ) and Inter-regional Headquarters (IHQ) within the boundaries and intersections of the corresponding administrative regions. It's in these spaces that some of the party bodies do their work. Financing and the architectural requirements for these spaces is established in Chapter V, Article 10 – Typology of the party headquarters.
 
-I.****Headquarters are open to public.
+I.Headquarters are open to public.
 
 ii.The existence of IHQ, RHQ and LHQ are required only and whenever the number of members so justifies.
 
-iii.****The choice of these spaces must be made through democratic consensus on the on-line platform.
+iii.The choice of these spaces must be made through democratic consensus on the on-line platform.
 
 <p align="center">
 <b>( article 15 )</b><br>
 CONTACTS</p>
 
-
 Management of the party’s official mail and e-mails is made by either the CA or the corresponding LAs.
 
-I.****The official URL for the website of the **PP** is **URL**.
+I.The official URL for the website of the **PP** is **URL**.
 
-II.**** The official mail addresses for the **PP** are the corresponding addresses of the headquarters at all levels.
+II.The official mail addresses for the **PP** are the corresponding addresses of the headquarters at all levels.
 
-IIi.**** Each of the party’s bodies other than cores have an official e-mail with the same **@URL **ending.
+IIi.Each of the party’s bodies other than cores have an official e-mail with the same **@URL** ending.
 
 <p align="center">
 <b>( article 15-b )</b><br>
@@ -273,7 +270,7 @@ The offici5al website of the **PP** serves the triple propose of distributing do
 
 I.Maintenance and updates to the website are responsibility of **PP**'s CA and Press body.
 
-II.****The website should at least link to **PP**'s manifesto, the party's statutes, contacts and dapp download.
+II.The website should at least link to **PP**'s manifesto, the party's statutes, contacts and dapp download.
 
 <p align="center">
 <b>( article 16 )</b><br>
@@ -317,13 +314,13 @@ secretary</p>
 
 The secretary is summoned whenever there’s a debate during **PP**’s activities and has the function of registering the event.
 
-I**.**The choice of the secretary is made by plurinominal consensus by the LC on the on-line platform at least 1 week prior to the debate. The work of the secretary can be remunerated.
+I.The choice of the secretary is made by plurinominal consensus by the LC on the on-line platform at least 1 week prior to the debate. The work of the secretary can be remunerated.
 
-Ii**.**Draws up a document that summarizes the main points that have emerged from the debate. The document must be ratified by those present.
+Ii.Draws up a document that summarizes the main points that have emerged from the debate. The document must be ratified by those present.
 
-Iii**.**Responsible for recording the debate in video format and uploading it to the on-line platform.
+Iii.Responsible for recording the debate in video format and uploading it to the on-line platform.
 
-Iv**.**The secretary can use the on-line platform to probe the opinions of the party members spectating the debates on any question that is raised during the discussion. However the results from these live referendums are not to be counted as votes on any particular matter.
+Iv.The secretary can use the on-line platform to probe the opinions of the party members spectating the debates on any question that is raised during the discussion. However the results from these live referendums are not to be counted as votes on any particular matter.
 
 <p align="center">
 <b>( article 3 )</b><br>
@@ -369,7 +366,7 @@ composition</p>
 
 I.**PP** members and sympathizers can participate in the National Congress.
 
-Ii.****The choice of the National Congress board is made by plurinominal consensus by the Political Commission.
+Ii.The choice of the National Congress board is made by plurinominal consensus by the Political Commission.
 
 <p align="center">
 <b>( article 4-d )</b><br>
@@ -395,7 +392,7 @@ Meets monthly in the party’s NHQ, i.e.: during new moon’s eve.
 <b>( article 5-c )</b><br>
 Composition</p>
 
-It’s composed of a member chosen by plurinominal consensus by the Political Commission; an economist, an engineer and a jurist proposed by the same method by the Scientific-economical and Legal Coordination; the most influential member of the **PP **(member with most delegations) and a member chosen at random from amongst the party, both considering the area of influence defined by the particular High Council; one member elected by the Presidency; one put forward by the Digital Youth. Totalling 8 participants.
+It’s composed of a member chosen by plurinominal consensus by the Political Commission; an economist, an engineer and a jurist proposed by the same method by the Scientific-economical and Legal Coordination; the most influential member of the **PP** (member with most delegations) and a member chosen at random from amongst the party, both considering the area of influence defined by the particular High Council; one member elected by the Presidency; one put forward by the Digital Youth. Totalling 8 participants.
 
 <p align="center">
 <b>( article 5-d )</b><br>
@@ -503,7 +500,7 @@ II.Proposes a schedule for the execution of approved bills of high economical im
 <b>( article 9 )</b><br>
 political commission</p>
 
-It is an organ whose purpose is to reinforce territorial unity. It is responsible for electing **PP**’s** **representatives for parliamentary seats.
+It is an organ whose purpose is to reinforce territorial unity. It is responsible for electing **PP**’s representatives for parliamentary seats.
 
 <p align="center">
 <b>( article 9-b )</b><br>
@@ -684,7 +681,7 @@ II.Prepare for each policy proposal that answered positively to point I and nega
 <b>( article 14 )</b><br>
 cooperation</p>
 
-The work order attributed to the SC and EC is often complex and expensive thus the **PP **allows itself partnerships between these committees and other private apolitical organizations for the study of complex projects. We define these collaborations as sponsored and they’re valid only as long as they’re approved by the LCDIE when the project stems from a low impact policy proposal, the RCDIE for ordinary and medium impact proposals and the IRCDIE for high impact policies.
+The work order attributed to the SC and EC is often complex and expensive thus the **PP** allows itself partnerships between these committees and other private apolitical organizations for the study of complex projects. We define these collaborations as sponsored and they’re valid only as long as they’re approved by the LCDIE when the project stems from a low impact policy proposal, the RCDIE for ordinary and medium impact proposals and the IRCDIE for high impact policies.
 
 Adicionar estas ordens de trabbalhos nos outros artigs
 
@@ -722,7 +719,7 @@ The Central Administration and the Local Administrations are executive bodies co
 <b>( article 16-b )</b><br>
 composition</p>
 
-****Both Central and Local Administrations are composed of:
+Both Central and Local Administrations are composed of:
 
 I.A receptionist and an administrator who has office at each Local Headquarters and at the National Headquarter.
 
@@ -904,7 +901,7 @@ Iii.The body, without limitations, must contain the proposal itself as detailed 
 <b>( article 4-b )</b><br>
 Geographical bond</p>
 
-****To each of the proposed policies put forward by the party members, in addition to the title, abstract and body it must be associated with the local administrative region to which the member who proposed it belongs.
+To each of the proposed policies put forward by the party members, in addition to the title, abstract and body it must be associated with the local administrative region to which the member who proposed it belongs.
 
 <p align="center">
 <b>( article 4-c )</b><br>
@@ -968,7 +965,7 @@ Once several bills have been approved the impossibility may arise either due to 
 
 I.The High Councils have the responsibility to propose a schedule for the high impact bills; Inter-regional Councils are to propose a schedule for medium impact bills; Regional Councils are to schedule ordinary bills and the Local Councils low impact bills.
 
-II. The various calendarizations can be customized and ratified by each party member on a specific view on the on-line platform. The final and official calendar to be used on the **PP**’s** **electoral programs is to be calculated by automatically merging over all proposals.
+II. The various calendarizations can be customized and ratified by each party member on a specific view on the on-line platform. The final and official calendar to be used on the **PP**’s electoral programs is to be calculated by automatically merging over all proposals.
 
 <p align="center">
 <b>( article 7 )</b><br>
@@ -1030,13 +1027,13 @@ All party members not elected to roles in the main or secondary bodies of the pa
 <b>( article 2 )</b><br>
 Declaration of interests</p>
 
-****Elected deputies in the name of ****PP**** are to sign **a** ****Declaration of Interest**** wherein they declare any relationship that may exist with **private for profit organizations.**
+Elected deputies in the name of ****PP**** are to sign **a** ****Declaration of Interest**** wherein they declare any relationship that may exist with **private for profit organizations.**
 
 <p align="center">
 <b>( article 3 )</b><br>
 vote orientation</p>
 
-The vote of the deputies representing the party in the parliament must be the same as the vote expressed by consensus by the party members through the on-line platform. Otherwise representatives of the **PP **can voice their personal opinions but must abstain when voting.
+The vote of the deputies representing the party in the parliament must be the same as the vote expressed by consensus by the party members through the on-line platform. Otherwise representatives of the **PP** can voice their personal opinions but must abstain when voting.
 
 <p align="center">
 <b>( article 4 )</b><br>
@@ -1054,13 +1051,13 @@ On any topic under discussion in parliament, **PP** deputies, when asked to part
 <b>( article 6 )</b><br>
 Governance</p>
 
-All members of the party who exercise governmental functions must follow exclusively what is included in the party's electoral program. Failure to do so may result in the expulsion from the party. The list of members of the **PP **proposed to take the ministerial seats is put forward by the Political Commission.
+All members of the party who exercise governmental functions must follow exclusively what is included in the party's electoral program. Failure to do so may result in the expulsion from the party. The list of members of the **PP** proposed to take the ministerial seats is put forward by the Political Commission.
 
 <p align="center">
 <b>( article 7 )</b><br>
 Lists</p>
 
-****The lists chosen to represent ****PP ****must **choose **half of the member**s** **from** both sexes.**
+The lists chosen to represent **PP** must choose half of the members from both sexes.
 
 ## Management
 
@@ -1074,7 +1071,7 @@ The **PP** has in its genesis the principle of transparency, that is, all decisi
 <b>( article 2 )</b><br>
 Financing</p>
 
-Financing of **PP**’s** **activities must conform to the **LAW OF FINANCING OF POLITICAL PARTIES**.
+Financing of **PP**’s activities must conform to the **LAW OF FINANCING OF POLITICAL PARTIES**.
 
 <p align="center">
 <b>( article 2-b )</b><br>
@@ -1088,7 +1085,7 @@ REVENUE</p>
 
 Each time a party member votes, a blockchain transaction is done. This entails a **GAS FEE** that must be paid in cryptocurrency even if the transacted value is in fact 0.
 
-The main source for revenue for the **PP **is a fixed **PRICE **for each vote that is cast. The total cost for each vote is then calculated by the gas fee plus the price of the vote. The price is established by democratic consensus and enforced by a smart contract.
+The main source for revenue for the **PP** is a fixed **PRICE** for each vote that is cast. The total cost for each vote is then calculated by the gas fee plus the price of the vote. The price is established by democratic consensus and enforced by a smart contract.
 
 <p align="center">
 <b>( article 3 )</b><br>
@@ -1184,14 +1181,7 @@ typology** of party’s headquarters</p>
 
 The dimension of the spaces must be proportional to the population that they are serving:
 
-||
-||
-||
-||
-||
-||
-||
-||
+TO-DO / ADD TABLE HERE
 
 (Auditorium space can be located in independent buildings)
 
