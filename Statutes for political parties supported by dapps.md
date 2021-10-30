@@ -21,7 +21,7 @@ Aspects to be defined at the first national congresses.
 ## General provisions
 
 <p align="center">
-<b>( article 1 )</b>
+<b>( article 1 )</b><br>
 Mission
 </p>
 
