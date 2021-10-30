@@ -90,7 +90,7 @@ III. Moderation is user-centric meaning no special roles are assigned to any use
 hemicycle and geopolitical map
 </p>
 
-The hemicycle and geopolitical map are views in the on-line platform that allow for quick analyses of the **PP’**s (or other relevant political) events by means of visual representations such as mimicking a real hemicycle or pinpointing geometrical figures in a map accordingly.
+The hemicycle and geopolitical map are views in the on-line platform that allow for quick analyses of the **PP**s (or other relevant political) events by means of visual representations such as mimicking a real hemicycle or pinpointing geometrical figures in a map accordingly.
 
 <p align="center">
 <b>( article 5 )</b><br>
