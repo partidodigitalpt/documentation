@@ -280,8 +280,8 @@ should be done. We also consider that with the exception of Estonia
 where national elections were already successfully conducted few other
 countries are actively pursuing this end. Most need to improve or
 disclose their technology in order to facilitate implementation.
-Disclosing official eID smart card SDKs is important for the ecosystem
-to evolve.
+Disclosing official eID smart card SDKs in order to facilitate IDM
+is important for the ecosystem to evolve.
 
 ## References
 
