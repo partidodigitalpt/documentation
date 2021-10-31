@@ -276,7 +276,7 @@ issued smart cards.<sup>[26](https://res.mdpi.com/d_attachment/symmetry/symmetry
 
 The present authors consider that the conditions to deploy E2E-VIV are
 to a large extent sufficiently understood and that further investment
-should be done. We also consider that with the exception of Estonia
+should be made. We also consider that with the exception of Estonia
 where national elections were already successfully conducted few other
 countries are actively pursuing this end. Most need to improve or
 disclose their technology in order to facilitate implementation.
