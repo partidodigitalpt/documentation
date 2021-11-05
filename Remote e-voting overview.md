@@ -147,7 +147,7 @@ consequentially, *private voting*.<sup>[14](https://hal.archives-ouvertes.fr/hal
 
 Homomorphic encryption allows votes to be saved and later tallied
 without disclosing clear-data. It achieves this by doing computations on
-top of ciphertexts and is useful to guarantee *ballot integrity
+top of ciphertexts and is useful to guarantee ballot integrity
 <sup>[15](https://www.ijrte.org/wp-content/uploads/papers/v8i2S11/B11680982S1119.pdf)</sup> *when publishing a bulletin-board of the votes*.
 
 There are other cryptographies that may also prove to be useful such
