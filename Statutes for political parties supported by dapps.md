@@ -1,6 +1,6 @@
 # Statutes for political parties supported by dapps
 <ul>
-<li><b>[General provisions](#general-provisions)</b></li>
+[General provisions](#general-provisions)
 Fundamental principles to which party members adhere as well as general aspects; name, acronym, membership, working tools and partnerships.
 
 <li><b>Internal organization</b></li>
