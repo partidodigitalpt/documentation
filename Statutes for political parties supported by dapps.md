@@ -1,5 +1,5 @@
 # Statutes for political parties supported by dapps
-Take me to [contact](#contact_form)
+
 <ul>
 <li><b>General provisions</b></li>
 <li>Fundamental principles to which party members adhere as well as general aspects; name, acronym, membership, working tools and partnerships.</li>
@@ -56,7 +56,7 @@ I.All the information and tools that are considered important to the functioning
 II.The on-line platform must deploy the most advanced technologies for identity management and secured communications.
 
 Iii.Backup copies of the database must be periodically made and saved in digital as well as in written physical format and made available to anyone at any time in the various headquarters of the party.
-### <a id="contact_form"></a>Contact form
+
 <p align="center">
 <b>( article 4-b )</b><br>
 Functionalities</p>
