@@ -2,7 +2,7 @@
 
 <ul>
 <li><b>General provisions</b></li>
-<li>Fundamental principles to which party members adhere as well as general aspects; name, acronym, membership, working tools and partnerships.</li>
+Fundamental principles to which party members adhere as well as general aspects; name, acronym, membership, working tools and partnerships.
 
 <li><b>Internal organization</b></li>
 Dates for the meetings, mission and composition of the party bodies; work orders and other details regarding management such as the role of the treasurer, moderators and secretaries.
