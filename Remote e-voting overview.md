@@ -143,15 +143,15 @@ mitigate this design flaw.<sup>[13](https://arxiv.org/abs/2012.15351v1)</sup>
 Zero-Knowledge Proofs (ZKP) are a way to prove to a party that you are
 in the possession of some information (a secret) without revealing it
 during communications. It's useful for *anonymous authentication* and
-consequentially, *private voting*.<sup>[14](https://hal.archives-ouvertes.fr/hal-01812004/document)</sup>
+consequentially, *private voting*.<sup>[14](https://hal.archives-ouvertes.fr/hal-01812004/document)[15](https://www.researchgate.net/publication/341000573_ethVote_Towards_secure_voting_with_distributed_ledgers)[16](https://semaphore.appliedzkp.org/)</sup>
 
 Homomorphic encryption allows votes to be saved and later tallied
 without disclosing clear-data. It achieves this by doing computations on
 top of ciphertexts and is useful to guarantee ballot integrity
-<sup>[15](https://www.ijrte.org/wp-content/uploads/papers/v8i2S11/B11680982S1119.pdf)</sup> *when publishing a bulletin-board of the votes*.
+<sup>[17](https://www.ijrte.org/wp-content/uploads/papers/v8i2S11/B11680982S1119.pdf)</sup> *when publishing a bulletin-board of the votes*.
 
 There are other cryptographies that may also prove to be useful such
-as Multi-Party computation <sup>[16](https://web.cs.ucla.edu/\~rafail/PUBLIC/182.pdf)</sup>, as an example whenever guaranteeing
+as Multi-Party computation <sup>[18](https://web.cs.ucla.edu/\~rafail/PUBLIC/182.pdf)</sup>, as an example whenever guaranteeing
 shared trust between members of a small set is a necessity.
 
 PKI is embedded in government issued smart card eIDs.
@@ -161,7 +161,7 @@ PKI is embedded in government issued smart card eIDs.
 As mentioned unsecured platforms pose serious problems. We need to
 ensure that the applications necessary for remote e-voting are running
 in isolated environments in order to protect the voter's machine against
-malware. TEE<sup>[17](https://globalplatform.org/wp-content/uploads/2018/04/GlobalPlatform_TEE_Whitepaper_2015.pdf)</sup> allows this by structuring access to hardware resources
+malware. TEE<sup>[19](https://globalplatform.org/wp-content/uploads/2018/04/GlobalPlatform_TEE_Whitepaper_2015.pdf)</sup> allows this by structuring access to hardware resources
 separately from the rich OS. With the proper setup of a nanokernel, with
 the use of microcode and private keys stored in firmware, namely in ROMs
 (Read-only Memory), and assuming a trust relationship between the
@@ -174,13 +174,13 @@ promoting open source software and hardware and is currently an issue
 given the monopoly of hardware manufacturers.
 
 This technology is implemented in some of the AMD, Intel, ARM and RISC-V
-CPUs <sup>[18](https://www.researchgate.net/publication/339784918_A\_Clean_Slate_Approach_to_Linux_Security_RISC-V_Enclave)</sup>. Smart cards are also one form of TEE because of their
+CPUs <sup>[20](https://www.researchgate.net/publication/339784918_A\_Clean_Slate_Approach_to_Linux_Security_RISC-V_Enclave)</sup>. Smart cards are also one form of TEE because of their
 embedded microchips which are obviously detached from the devices with
-which they operate.<sup>[19](https://www.usenix.org/legacy/events/smartcard99/full_papers/kommerling/kommerling.pdf)</sup>
+which they operate.<sup>[21](https://www.usenix.org/legacy/events/smartcard99/full_papers/kommerling/kommerling.pdf)</sup>
 
 ### Distributed ledgers
 
-The blockchain <sup>[20](https://bitcoin.org/bitcoin.pdf)</sup> is a new technology for storing data in a secure and
+The blockchain <sup>[22](https://bitcoin.org/bitcoin.pdf)</sup> is a new technology for storing data in a secure and
 transparent way which is not subject to any form of central control. It
 provides strong resilience against attacks that can tamper the integrity
 of the data by making use of the *immutability* propriety that can be
@@ -224,7 +224,7 @@ This architecture if properly setup can be used to obfuscate the user's
 source and destination IPs. No-Log VPNs may provide this service but
 require some level of trust between the users and the VPN provider.
 
-Tor <sup>[21](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf)</sup> on the other hand, is a decentralized trustless solution first
+Tor <sup>[23](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf)</sup> on the other hand, is a decentralized trustless solution first
 developed by the U.S. Navy in the mid-1990s which provides reasonable
 anonymity against non-state actors.
 
@@ -235,7 +235,7 @@ decentralized infrastructure as well as on the end user's terminals, of
 proper endpoint threat detection and response techniques. These can
 range from the use of reverse firewalls and updated software to the
 correct choice and setup of the OS, which in particular, should be
-amnesic by default.<sup>[22](https://www.academia.edu/31947046/Tails_Linux_Operating_System_Remaining_Anonymous_with_the_Assistance_of_an_Incognito_System_in_Times_of_High_Surveillance)</sup> Additionally, practices such as never sharing
+amnesic by default.<sup>[24](https://www.academia.edu/31947046/Tails_Linux_Operating_System_Remaining_Anonymous_with_the_Assistance_of_an_Incognito_System_in_Times_of_High_Surveillance)</sup> Additionally, practices such as never sharing
 personal smart cards with other users or sharing keys and passwords with
 the public are important.
 
@@ -255,9 +255,9 @@ Nigeria, Norway, Oman, Pakistan, Poland, Romania, Serbia, Slovakia,
 Somalia, Spain, Sweden, Thailand, Turkey, United Arab Emirates and
 Uruguay.
 
-We know that Philippines<sup>[23](https://www.sss.gov.ph/sss/DownloadContent?fileName=SSSForms_UMID_Application.pdf)</sup> has successfully deployed government issued
+We know that Philippines<sup>[25](https://www.sss.gov.ph/sss/DownloadContent?fileName=SSSForms_UMID_Application.pdf)</sup> has successfully deployed government issued
 smart card eIDs but failed at finding information about the availability
-of the middleware. France <sup>[24](https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/La-nouvelle-carte-nationale-d-identite)</sup> is soon to deploy smart card eIDs.
+of the middleware. France <sup>[26](https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/La-nouvelle-carte-nationale-d-identite)</sup> is soon to deploy smart card eIDs.
 
 In other countries no eID service is provided and identification is
 mostly done in person and paper based, or dependent on centralized IT
@@ -267,12 +267,12 @@ in the case of Switzerland.
 Another hypothetical way to implement remote e-voting is to make use of
 W3C DID standard. The only country that has pledged publicly to the
 allocation of public resources to this end is the already mentioned case
-of South Korea. In this spirit, CanDID<sup>[25](https://eprint.iacr.org/2020/934.pdf)</sup> seems to be an interesting
+of South Korea. In this spirit, CanDID<sup>[27](https://eprint.iacr.org/2020/934.pdf)</sup> seems to be an interesting
 innovative approach to implement remote e-voting in countries that still
 rely on legacy systems.
 
 Biometrics may also prove to be an alternative to eID provided by state
-issued smart cards.<sup>[26](https://res.mdpi.com/d_attachment/symmetry/symmetry-12-00951/article_deploy/symmetry-12-00951-v2.pdf)</sup>
+issued smart cards.<sup>[28](https://res.mdpi.com/d_attachment/symmetry/symmetry-12-00951/article_deploy/symmetry-12-00951-v2.pdf)</sup>
 
 The present authors consider that the conditions to deploy E2E-VIV are
 to a large extent sufficiently understood and that further investment
@@ -343,56 +343,63 @@ Blockchain" by Kalpana Singh et al., IEEE Blockchain, Halifax, Canada,
 2018.
 https://hal.archives-ouvertes.fr/hal-01812004/document
 
-\[15\] "Secure Electronic Voting using BlockChain and Homomorphic
+\[15\] "ethVote: Towards secure voting with distributed ledgers",
+Johannes M. and Emmanouil V., International Conference on Cyber Security
+and Protection of Digital Services, 2020.
+*https://www.researchgate.net/publication/341000573_ethVote_Towards_secure_voting_with_distributed_ledgers*
+
+\[16\] Semaphore, https://semaphore.appliedzkp.org/
+
+\[17\] "Secure Electronic Voting using BlockChain and Homomorphic
 Encryption" by C. Sravani et al.,International Journal of Recent
 Technology and Engineering, 2019.
 *https://www.ijrte.org/wp-content/uploads/papers/v8i2S11/B11680982S1119.pdf*
 
-\[16\] "Incoercible Multi-Party Computation and Universally Composable
+\[18\] "Incoercible Multi-Party Computation and Universally Composable
 Receipt-Free Voting", Joël Alwen, Rafail Ostrovsky, Hong-Sheng Zhou, and
 Vassilis Zikas, Advances in Cryptology -- CRYPTO 2015, Santa Barbara,
 USA, 2015. *https://web.cs.ucla.edu/\~rafail/PUBLIC/182.pdf*
 
-\[17\] "The Trusted Execution Environment: Delivering Enhanced Security
+\[19\] "The Trusted Execution Environment: Delivering Enhanced Security
 at a Lower Cost to the Mobile Market", GlobalPlatform, 2015.
 *https://globalplatform.org/wp-content/uploads/2018/04/GlobalPlatform_TEE_Whitepaper_2015.pdf*
 
-\[18\] "A Clean Slate Approach to Linux Security RISC-V Enclave", Sandro
+\[20\] "A Clean Slate Approach to Linux Security RISC-V Enclave", Sandro
 Pinto et al., Embedded World Conference, Germany, 2020.
 *https://www.researchgate.net/publication/339784918_A\_Clean_Slate_Approach_to_Linux_Security_RISC-V_Enclave*
 
-\[19\] "Design Principles for Tamper-Resistant Smartcard Processors",
+\[21\] "Design Principles for Tamper-Resistant Smartcard Processors",
 Oliver Kömmerling et al., USENIX Workshop on Smartcard Technology, USA,
 1999.
 https://www.usenix.org/legacy/events/smartcard99/full_papers/kommerling/kommerling.pdf
 
-\[20\] "Bitcoin: A Peer-to-Peer Electronic Cash System" by S. Nakamoto,
+\[22\] "Bitcoin: A Peer-to-Peer Electronic Cash System" by S. Nakamoto,
 2008. *https://bitcoin.org/bitcoin.pdf*
 
-\[21\] "Tor: The Second-Generation Onion Router" by Roger D. et al.,
+\[23\] "Tor: The Second-Generation Onion Router" by Roger D. et al.,
 2004.
 *https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf*
 
-\[22\] "Tails Linux Operating System: Remaining Anonymous with the
+\[24\] "Tails Linux Operating System: Remaining Anonymous with the
 Assistance of an Incognito System in Times of High Surveillance" by
 Maurice Dawson and Jose Antonio Cardenas-Haro, International Journal of
 Hyperconnectivity and the Internet of Things, United States of America,
 2017.
 *https://www.academia.edu/31947046/Tails_Linux_Operating_System_Remaining_Anonymous_with_the_Assistance_of_an_Incognito_System_in_Times_of_High_Surveillance*
 
-\[23\] Unified Multi-Purpose ID application form,
+\[25\] Unified Multi-Purpose ID application form,
 *https://www.sss.gov.ph/sss/DownloadContent?fileName=SSSForms_UMID_Application.pdf*
 
-\[24\] "La nouvelle carte nationale d\'identité", Ministère de
+\[26\] "La nouvelle carte nationale d\'identité", Ministère de
 l\'Intérieur, France, 2021.
 *https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/La-nouvelle-carte-nationale-d-identite*
 
-\[25\] "CanDID: Can-Do Decentralized Identity with Legacy Compatibility,
+\[27\] "CanDID: Can-Do Decentralized Identity with Legacy Compatibility,
 Sybil-Resistance, and Accountability", by Deepak Maram et al, The
 Initiative for CryptoCurrencies & Contracts, USA, 2021.
 *https://eprint.iacr.org/2020/934.pdf*
 
-\[26\] "Securing Fingerprint Template Using Blockchain and Distributed
+\[28\] "Securing Fingerprint Template Using Blockchain and Distributed
 Storage System", Moses Arhinful Acquah et al, Shandong University of
 Science and Technology, Shandong, China, 2020,
 [*https://res.mdpi.com/d_attachment/symmetry/symmetry-12-00951/article_deploy/symmetry-12-00951-v2.pdf*](https://res.mdpi.com/d_attachment/symmetry/symmetry-12-00951/article_deploy/symmetry-12-00951-v2.pdf)
@@ -411,12 +418,3 @@ Available SDKs
 [Perú](https://dnielectronico.pe/) (OpenSC),
 [Portugal](https://github.com/amagovpt/autenticacao.gov),
 [Uruguay](https://github.com/eIDuy/apdu-services)
-
-Other resources
-
-"ethVote: Towards secure voting with distributed ledgers",
-Johannes M. and Emmanouil V., International Conference on Cyber Security
-and Protection of Digital Services, 2020.
-*https://www.researchgate.net/publication/341000573_ethVote_Towards_secure_voting_with_distributed_ledgers*
-
-Semaphore, https://semaphore.appliedzkp.org/
