@@ -117,7 +117,7 @@ information is encrypted and can only be reverse verified with special
 keys that are in possession of only the voter and trusted entities,
 generally with the help of a CA (Certificate Authority).
 
-The whole system is thus divided and analyzed into several phases or
+The whole system is thus divided and analyzed in several phases or
 layers. With proper design each layer can be checked as well as the
 transactions in-between. Some interesting remote e-voting systems that
 offer end-to-end verifiability, under certain configuration assumptions,
