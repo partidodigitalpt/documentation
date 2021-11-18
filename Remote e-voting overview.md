@@ -114,7 +114,7 @@ that each person can vote at most once during each election. The concept
 of a PKI (public key infrastructure) helps by providing an easy and
 highly secured way for authentication. PKI ensures that sensitive
 information is encrypted and can only be reverse verified with special
-keys that is in possession of only the voter and trusted entities,
+keys that are in possession of only the voter and trusted entities,
 generally with the help of a CA (Certificate Authority).
 
 The whole system is thus divided and analyzed into several phases or
