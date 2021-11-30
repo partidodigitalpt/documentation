@@ -37,17 +37,11 @@ References:
 
 “**Voter Turnout Trends around the World**” report by International Institute for Democracy and Electoral Assistance, <https://www.idea.int/sites/default/files/publications/voter-turnout-trends-around-the-world.pdf>
 
-“**Time to care**” by Oxfam International,
+“**Time to care**” by Oxfam International, <https://www.oxfam.org.za/wp-content/uploads/2020/01/Oxfam-Inequality_Report-Time-to-Think.pdf>
 
-<https://www.oxfam.org.za/wp-content/uploads/2020/01/Oxfam-Inequality_Report-Time-to-Think.pdf>
+“**Offshore leaks database**” by The International Consortium of Investigative Journalists, https://offshoreleaks.icij.org/pages/database
 
-“**Offshore leaks database**” by The International Consortium of Investigative Journalists,
-
-https://offshoreleaks.icij.org/pages/database
-
-“**Corruption Perceptions Index**” report by Transparency International,
-
-<https://images.transparencycdn.org/images/CPI2020_Report_EN_0802-WEB-1_2021-02-08-103053.pdf>
+“**Corruption Perceptions Index**” report by Transparency International, <https://images.transparencycdn.org/images/CPI2020_Report_EN_0802-WEB-1_2021-02-08-103053.pdf>
 
 “**IPBES Report on biodiversity loss**” by the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, [*https://grow-back.com/wp-content/uploads/2020/12/ipbes\_global\_assessment\_report\_summary\_for\_policymakers\_en.pdf*](https://grow-back.com/wp-content/uploads/2020/12/ipbes_global_assessment_report_summary_for_policymakers_en.pdf)
 
@@ -55,22 +49,14 @@ https://offshoreleaks.icij.org/pages/database
 
 “**Trends in the World Military Expenditure, 2020**” by the Stockholm International Peace Research Institute (SIPRI), *https://www.sipri.org/sites/default/files/2021-04/fs\_2104\_milex\_0.pdf*
 
-“**Quantifying the cost and benefits of ending hunger and undernutrition: Examining the differences among alternative approaches**” by the International Food Policy Research Institute,
+“**Quantifying the cost and benefits of ending hunger and undernutrition: Examining the differences among alternative approaches**” by the International Food Policy Research Institute, [*https://ebrary.ifpri.org/digital/collection/p15738coll2/id/132266*](https://ebrary.ifpri.org/digital/collection/p15738coll2/id/132266)
 
-[*https://ebrary.ifpri.org/digital/collection/p15738coll2/id/132266*](https://ebrary.ifpri.org/digital/collection/p15738coll2/id/132266)
+“**SIPRI Yearbook 2020, Armaments, Disarmament and International Security**” by SIPRI, <https://www.sipri.org/sites/default/files/YB20%2010%20WNF.pdf>
 
-“**SIPRI Yearbook 2020, Armaments, Disarmament and International Security**” by SIPRI,
-
-<https://www.sipri.org/sites/default/files/YB20%2010%20WNF.pdf>
-
-“**Global Health Security Index**” by the Nuclear Threat Initiative,
-
-<https://www.ghsindex.org/wp-content/uploads/2020/04/2019-Global-Health-Security-Index.pdf>
+“**Global Health Security Index**” by the Nuclear Threat Initiative, <https://www.ghsindex.org/wp-content/uploads/2020/04/2019-Global-Health-Security-Index.pdf>
 
 “**Cambridge Working Group Consensus Statement on the Creation of Potential Pandemic Pathogens**”, The Cambridge Working Group, [*http://www.cambridgeworkinggroup.org/documents/statement.pdf*](http://www.cambridgeworkinggroup.org/documents/statement.pdf)
 
-“**List of laboratory biosecurity incidents**” entry in Wikipedia,
-
-[*https://en.wikipedia.org/wiki/List\_of\_laboratory\_biosecurity\_incidents*](https://en.wikipedia.org/wiki/List_of_laboratory_biosecurity_incidents)
+“**List of laboratory biosecurity incidents**” entry in Wikipedia, [*https://en.wikipedia.org/wiki/List\_of\_laboratory\_biosecurity\_incidents*](https://en.wikipedia.org/wiki/List_of_laboratory_biosecurity_incidents)
 
 “**Scientists warn of potential serious health effects of 5G**”, by 5G Appeal, *https://www.5gappeal.eu/*, *https://ehtrust.org/wp-content/uploads/Scientist-5G-appeal-2017.pdf*
