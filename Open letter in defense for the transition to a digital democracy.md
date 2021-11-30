@@ -35,9 +35,7 @@ References:
 
 [](https://www.idea.int/sites/default/files/publications/voter-turnout-trends-around-the-world.pdf)
 
-“**Voter Turnout Trends around the World**” report by International Institute for Democracy and Electoral Assistance,
-
-<https://www.idea.int/sites/default/files/publications/voter-turnout-trends-around-the-world.pdf>
+“**Voter Turnout Trends around the World**” report by International Institute for Democracy and Electoral Assistance, <https://www.idea.int/sites/default/files/publications/voter-turnout-trends-around-the-world.pdf>
 
 “**Time to care**” by Oxfam International,
 
