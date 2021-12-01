@@ -31,7 +31,8 @@ Although humanity's history has always been towards evolution… there are distu
 
 References:
 
-\[1\] “**Democracy Index 2020**” report by the Economist Intelligence Unit, The Economist, *https://www.eiu.com/n/campaigns/democracy-index-2020/*
+\[1\] “**Democracy Index 2020**” report by the Economist Intelligence Unit, The Economist, 
+*https://www.eiu.com/n/campaigns/democracy-index-2020/*
 
 [](https://www.idea.int/sites/default/files/publications/voter-turnout-trends-around-the-world.pdf)
 
