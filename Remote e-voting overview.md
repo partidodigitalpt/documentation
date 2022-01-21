@@ -2,7 +2,7 @@
 
   We can divide the process of voting in 4 distinct categories: In-person
 paper voting, In-person e-voting, Remote paper voting and Remote
-e-voting, or REV<sup>[1](https://law.mit.edu/pub/remotevotingintheageofcryptography/release/1?fbclid=IwAR383qoAB3vx5NWwGl3ITId_8nFjzk-er5fxFc4KTQRDTBb97nT9O_ekPu8)</sup>. Electoral processes must guarantee certain proprieties<sup>[2](https://www.attejuvonen.fi/thesis-voting-security-2019-10-01.pdf)</sup> as
+e-voting (REV<sup>[1](https://law.mit.edu/pub/remotevotingintheageofcryptography/release/1?fbclid=IwAR383qoAB3vx5NWwGl3ITId_8nFjzk-er5fxFc4KTQRDTBb97nT9O_ekPu8)</sup>). Electoral processes must guarantee certain proprieties<sup>[2](https://www.attejuvonen.fi/thesis-voting-security-2019-10-01.pdf)</sup> as
 well as provide cybersecurity when done electronically<sup>[3](http://www.lsv.fr/Projects/anr-avote/RAPPORTS/deliv1-2.pdf)</sup>. The goal of
 this short paper is to do a small overview of the current tools of the
 ecosystem of remote e-voting and pin-point key components that will play
