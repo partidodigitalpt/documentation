@@ -2,8 +2,8 @@
 
   We can divide the process of voting in 4 distinct categories: In-person
 paper voting, In-person e-voting, Remote paper voting and Remote
-e-voting.<sup>[1](https://www.attejuvonen.fi/thesis-voting-security-2019-10-01.pdf)</sup> Electoral processes must guarantee certain proprieties as
-well as provide cybersecurity when done electronically<sup>[2](http://www.lsv.fr/Projects/anr-avote/RAPPORTS/deliv1-2.pdf)</sup>. The goal of
+e-voting, or REV<sup>[1](https://law.mit.edu/pub/remotevotingintheageofcryptography/release/1?fbclid=IwAR383qoAB3vx5NWwGl3ITId_8nFjzk-er5fxFc4KTQRDTBb97nT9O_ekPu8)</sup>. Electoral processes must guarantee certain proprieties<sup>[2](https://www.attejuvonen.fi/thesis-voting-security-2019-10-01.pdf)</sup> as
+well as provide cybersecurity when done electronically<sup>[3](http://www.lsv.fr/Projects/anr-avote/RAPPORTS/deliv1-2.pdf)</sup>. The goal of
 this short paper is to do a small overview of the current tools of the
 ecosystem of remote e-voting and pin-point key components that will play
 an important role in its foreseeable evolution.
@@ -29,7 +29,7 @@ parliamentary elections where 565 045 people voted of which 247 232 cast
 their votes on-line, at home, over the internet, which is about 43.8% of
 the total of the votes cast. Estonia is so far the only country to
 deploy remote e-voting for national elections across the entire
-population of the country.<sup>[3](https://rk2019.valimised.ee/en/voting-result/voting-result-main.html)</sup> To achieve this it made use of the smart
+population of the country.<sup>[4](https://rk2019.valimised.ee/en/voting-result/voting-result-main.html)</sup> To achieve this it made use of the smart
 card eID issued by their government.
 
 In Switzerland, remote e-voting has been occurring a little bit earlier,
@@ -37,7 +37,7 @@ since 2003, the first time in the small commune Anieres that is part of
 the canton of Geneva. Between 10-20% of the total of votes of permanent
 residents have since been cast over the internet while for the expat
 community it has been registered between 40-70% on-line voter turnout,
-depending on the specific cantons.<sup>[4](https://www.researchgate.net/publication/283878260_Fifteen_Years_of_Internet_Voting_in_Switzerland_History_Governance_and_Use)</sup> Switzerland uses a different
+depending on the specific cantons.<sup>[5](https://www.researchgate.net/publication/283878260_Fifteen_Years_of_Internet_Voting_in_Switzerland_History_Governance_and_Use)</sup> Switzerland uses a different
 mechanism other than smart cards for identification however, which
 relies solely on in-presence registration at the corresponding cantons
 and the insertion of a series of codes that are sent to the
@@ -48,7 +48,7 @@ occurring more at a local than at a national level.
 
 Colombian government and FARC in 2016 went on a plebiscite for a peace treaty
 wherein around 5 400 000 otherwise excluded expats
-were able to express their opinion on-line through digital tools.<sup>[5](https://www.oecd-forum.org/posts/28703-how-blockchain-can-change-voting-the-colombian-peace-plebiscite)</sup>
+were able to express their opinion on-line through digital tools.<sup>[6](https://www.oecd-forum.org/posts/28703-how-blockchain-can-change-voting-the-colombian-peace-plebiscite)</sup>
 
 South Korea successfully deployed a small-scale remote e-vote polling in
 the most populous province, Gyeonggi-do, with around 9000 participants
@@ -56,7 +56,7 @@ that decided the destiny of 527 community projects. The trial used
 blockchain for improved security which has seen strong support for
 adoption by national authorities that plan to invest \$380 million
 between 2021-2026. The Ministry of Science and Technology plans to
-implement DID<sup>[6](https://www.w3.org/2019/did-wg/)</sup> at a national level by the end of 2022.<sup>[7](https://v.kakao.com/v/20200624165519865)</sup>
+implement DID<sup>[7](https://www.w3.org/2019/did-wg/)</sup> at a national level by the end of 2022.<sup>[8](https://v.kakao.com/v/20200624165519865)</sup>
 
 Other trials have been conducted with relative success at varied scales
 in other countries as the technology behind remote e-voting becomes
@@ -80,7 +80,7 @@ Verifiability is the ability of any independent party to verify that all
 votes were counted correctly. Additionally, it should give voters the
 ability to verify that their own vote has been properly emitted,
 recorded and counted for the final tally results. The pursuit of this
-propriety culminated in the idea of end-to-end verifiability<sup>[8](https://usvotefoundation-drupal.s3.amazonaws.com/prod/E2EVIV_full_report.pdf)</sup>
+propriety culminated in the idea of end-to-end verifiability<sup>[9](https://usvotefoundation-drupal.s3.amazonaws.com/prod/E2EVIV_full_report.pdf)</sup>
 (E2E-VIV). Intuitively, what this system must provide is the ability for
 voters to detect fraud by distributing receipts for each vote while
 simultaneously preventing these from being used as proofs of their
@@ -94,7 +94,7 @@ process.
 The remote e-voting system must protect voters by concealing the
 relation between the voter and the votes cast, ensuring that the
 choice's made remain private. This can be expressed via several security
-properties <sup>[9](https://eprint.iacr.org/2015/629.pdf)</sup>:
+properties <sup>[10](https://eprint.iacr.org/2015/629.pdf)</sup>:
 
 - Basic ballot integrity guarantees that no one in possession of the
 (digital) ballots can disclose how voters voted individually while still
@@ -125,15 +125,15 @@ The whole system is thus divided and analyzed in several phases or
 layers. With proper design each layer can be checked as well as the
 transactions in-between. Some interesting remote e-voting systems that
 offer end-to-end verifiability, under certain configuration assumptions,
-that were found during our research were Remotegrity<sup>[10](https://eprint.iacr.org/2013/214.pdf)</sup>, EVIV<sup>[11](https://github.com/EVIVoting/EVIV)</sup> and
-VoteAgain<sup>[12](https://arxiv.org/abs/2005.11189)</sup>.
+that were found during our research were Remotegrity<sup>[11](https://eprint.iacr.org/2013/214.pdf)</sup>, EVIV<sup>[12](https://github.com/EVIVoting/EVIV)</sup> and
+VoteAgain<sup>[13](https://arxiv.org/abs/2005.11189)</sup>.
 
 ### Public-Key, Zero-Knowledge and Homomorphic Encryption
 
 PKIs are well established cryptographic algorithms and the necessary
 underlying infrastructure that can be used to form *secure channels*
 between two parties while guaranteeing *confidentiality*, *data
-integrity* and *identity*.<sup>[13](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-175b.pdf)</sup>
+integrity* and *identity*.<sup>[14](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-175b.pdf)</sup>
 
 Although Public-Key Infrastructure does provide some of the necessary
 building blocks for secure communications, registering and
@@ -142,20 +142,20 @@ certificates from a CA (the government or other public institutions) and
 the integrity of these is tied to the good behavior of the officials who
 issue and manage the certificates. Recently, decentralized PKI schemes
 which rely instead on a *Web of Trust* and *blockchain* were proposed to
-mitigate this design flaw.<sup>[14](https://arxiv.org/abs/2012.15351v1)</sup>
+mitigate this design flaw.<sup>[15](https://arxiv.org/abs/2012.15351v1)</sup>
 
 Zero-Knowledge Proofs (ZKP) are a way to prove to a party that you are
 in the possession of some information (a secret) without revealing it
 during communications. It's useful for *anonymous authentication* and
-consequentially, *private voting*.<sup>[15](https://hal.archives-ouvertes.fr/hal-01812004/document)[16](https://www.researchgate.net/publication/341000573_ethVote_Towards_secure_voting_with_distributed_ledgers)[17](https://semaphore.appliedzkp.org/)</sup>
+consequentially, *private voting*.<sup>[16](https://hal.archives-ouvertes.fr/hal-01812004/document)[17](https://www.researchgate.net/publication/341000573_ethVote_Towards_secure_voting_with_distributed_ledgers)[18](https://semaphore.appliedzkp.org/)</sup>
 
 Homomorphic encryption allows votes to be saved and later tallied
 without disclosing clear-data. It achieves this by doing computations on
 top of ciphertexts and is useful to guarantee ballot integrity
-<sup>[18](https://www.ijrte.org/wp-content/uploads/papers/v8i2S11/B11680982S1119.pdf)</sup> *when publishing a bulletin-board of the votes*.
+<sup>[19](https://www.ijrte.org/wp-content/uploads/papers/v8i2S11/B11680982S1119.pdf)</sup> *when publishing a bulletin-board of the votes*.
 
 There are other cryptographies that may also prove to be useful such
-as Multi-Party computation <sup>[19](https://web.cs.ucla.edu/\~rafail/PUBLIC/182.pdf)</sup>, as an example whenever guaranteeing
+as Multi-Party computation <sup>[20](https://web.cs.ucla.edu/\~rafail/PUBLIC/182.pdf)</sup>, as an example whenever guaranteeing
 shared trust between members of a small set is a necessity.
 
 PKI is embedded in government issued smart card eIDs.
@@ -165,7 +165,7 @@ PKI is embedded in government issued smart card eIDs.
 As mentioned unsecured platforms pose serious problems. We need to
 ensure that the applications necessary for remote e-voting are running
 in isolated environments in order to protect the voter's machine against
-malware. TEE<sup>[20](https://globalplatform.org/wp-content/uploads/2018/04/GlobalPlatform_TEE_Whitepaper_2015.pdf)</sup> allows this by structuring access to hardware resources
+malware. TEE<sup>[21](https://globalplatform.org/wp-content/uploads/2018/04/GlobalPlatform_TEE_Whitepaper_2015.pdf)</sup> allows this by structuring access to hardware resources
 separately from the rich OS. With the proper setup of a nanokernel, with
 the use of microcode and private keys stored in firmware, namely in ROMs
 (Read-only Memory), and assuming a trust relationship between the
@@ -178,13 +178,13 @@ promoting open source software and hardware and is currently an issue
 given the monopoly of hardware manufacturers.
 
 This technology is implemented in some of the AMD, Intel, ARM and RISC-V
-CPUs <sup>[21](https://www.researchgate.net/publication/339784918_A\_Clean_Slate_Approach_to_Linux_Security_RISC-V_Enclave)</sup>. Smart cards are also one form of TEE because of their
+CPUs <sup>[22](https://www.researchgate.net/publication/339784918_A\_Clean_Slate_Approach_to_Linux_Security_RISC-V_Enclave)</sup>. Smart cards are also one form of TEE because of their
 embedded microchips which are obviously detached from the devices with
-which they operate.<sup>[22](https://www.usenix.org/legacy/events/smartcard99/full_papers/kommerling/kommerling.pdf)</sup>
+which they operate.<sup>[23](https://www.usenix.org/legacy/events/smartcard99/full_papers/kommerling/kommerling.pdf)</sup>
 
 ### Distributed ledgers
 
-The blockchain <sup>[23](https://bitcoin.org/bitcoin.pdf)</sup> is a new technology for storing data in a secure and
+The blockchain <sup>[24](https://bitcoin.org/bitcoin.pdf)</sup> is a new technology for storing data in a secure and
 transparent way which is not subject to any form of central control. It
 provides strong resilience against attacks that can tamper the integrity
 of the data by making use of the *immutability* propriety that can be
@@ -228,7 +228,7 @@ This architecture if properly setup can be used to obfuscate the user's
 source and destination IPs. No-Log VPNs may provide this service but
 require some level of trust between the users and the VPN provider.
 
-Tor <sup>[24](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf)</sup> on the other hand, is a decentralized trustless solution first
+Tor <sup>[25](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf)</sup> on the other hand, is a decentralized trustless solution first
 developed by the U.S. Navy in the mid-1990s which provides reasonable
 anonymity against non-state actors.
 
@@ -239,7 +239,7 @@ decentralized infrastructure as well as on the end user's terminals, of
 proper endpoint threat detection and response techniques. These can
 range from the use of reverse firewalls and updated software to the
 correct choice and setup of the OS, which in particular, should be
-amnesic by default.<sup>[25](https://www.academia.edu/31947046/Tails_Linux_Operating_System_Remaining_Anonymous_with_the_Assistance_of_an_Incognito_System_in_Times_of_High_Surveillance)</sup> Additionally, practices such as never sharing
+amnesic by default.<sup>[26](https://www.academia.edu/31947046/Tails_Linux_Operating_System_Remaining_Anonymous_with_the_Assistance_of_an_Incognito_System_in_Times_of_High_Surveillance)</sup> Additionally, practices such as never sharing
 personal smart cards with other users or sharing keys and passwords with
 the public are important.
 
@@ -259,9 +259,9 @@ Nigeria, Norway, Oman, Pakistan, Poland, Romania, Serbia, Slovakia,
 Somalia, Spain, Sweden, Thailand, Turkey, United Arab Emirates and
 Uruguay.
 
-We know that Philippines<sup>[26](https://www.sss.gov.ph/sss/DownloadContent?fileName=SSSForms_UMID_Application.pdf)</sup> has successfully deployed government issued
+We know that Philippines<sup>[27](https://www.sss.gov.ph/sss/DownloadContent?fileName=SSSForms_UMID_Application.pdf)</sup> has successfully deployed government issued
 smart card eIDs but failed at finding information about the availability
-of the middleware. France <sup>[27](https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/La-nouvelle-carte-nationale-d-identite)</sup> is soon to deploy smart card eIDs.
+of the middleware. France <sup>[28](https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/La-nouvelle-carte-nationale-d-identite)</sup> is soon to deploy smart card eIDs.
 
 In other countries no eID service is provided and identification is
 mostly done in person and paper based, or dependent on centralized IT
@@ -271,12 +271,12 @@ in the case of Switzerland.
 Another hypothetical way to implement remote e-voting is to make use of
 W3C DID standard. The only country that has pledged publicly to the
 allocation of public resources to this end is the already mentioned case
-of South Korea. In this spirit, CanDID<sup>[28](https://eprint.iacr.org/2020/934.pdf)</sup> seems to be an interesting
+of South Korea. In this spirit, CanDID<sup>[29](https://eprint.iacr.org/2020/934.pdf)</sup> seems to be an interesting
 innovative approach to implement remote e-voting in countries that still
 rely on legacy systems.
 
 Biometrics may also prove to be an alternative to eID provided by state
-issued smart cards.<sup>[29](https://res.mdpi.com/d_attachment/symmetry/symmetry-12-00951/article_deploy/symmetry-12-00951-v2.pdf)</sup>
+issued smart cards.<sup>[30](https://res.mdpi.com/d_attachment/symmetry/symmetry-12-00951/article_deploy/symmetry-12-00951-v2.pdf)</sup>
 
 The present authors consider that the conditions to deploy E2E-VIV are
 to a large extent sufficiently understood and that further investment
@@ -289,125 +289,129 @@ is important for the ecosystem to evolve.
 
 ## References
 
-\[1\] "A framework for comparing the security of voting schemes", Atte
+\[1\] "Remote Voting in the Age of Cryptography", Nathaniel 
+Williams, MIT Computational Law Report, 2022.
+https://www.attejuvonen.fi/thesis-voting-security-2019-10-01.pdf
+
+\[2\] "A framework for comparing the security of voting schemes", Atte
 Juvonen, University of Helsinky, Finland, 2019.
 https://www.attejuvonen.fi/thesis-voting-security-2019-10-01.pdf
 
-\[2\] "Formalising security properties in electronic voting protocols",
+\[3\] "Formalising security properties in electronic voting protocols",
 Steve K. et al, FR, 2013.
 *http://www.lsv.fr/Projects/anr-avote/RAPPORTS/deliv1-2.pdf*
 
-\[3\] Valimised Eestis, Government organisation, 2019 parliamentary
+\[4\] Valimised Eestis, Government organisation, 2019 parliamentary
 election results.
 *https://rk2019.valimised.ee/en/voting-result/voting-result-main.html*
 
-\[4\] \"Fifteen years of internet voting in Switzerland \[History,
+\[5\] \"Fifteen years of internet voting in Switzerland \[History,
 Governance and Use\]\", Uwe Serdult et al., 2nd ICEDEG, 2015.
 https://www.researchgate.net/publication/283878260_Fifteen_Years_of_Internet_Voting_in_Switzerland_History_Governance_and_Use
 
-\[5\] "How Blockchain can change voting: the Colombian Peace plebiscite",
+\[6\] "How Blockchain can change voting: the Colombian Peace plebiscite",
 entry on Organisation for Economic Co-operation and Development Forum, Charlotte van Ooijen, 2017,
 *https://www.oecd-forum.org/posts/28703-how-blockchain-can-change-voting-the-colombian-peace-plebiscite*
 
-\[6\] DID Working Group, *https://www.w3.org/2019/did-wg/*
+\[7\] DID Working Group, *https://www.w3.org/2019/did-wg/*
 
-\[7\] "South Korea unveils Blockchain Strategy to Launch Online Voting
+\[8\] "South Korea unveils Blockchain Strategy to Launch Online Voting
 and Election System by 2022". *https://v.kakao.com/v/20200624165519865*
 
-\[8\] "The Future of Voting, End-to-End Verifiable Internet Voting,
+\[9\] "The Future of Voting, End-to-End Verifiable Internet Voting,
 Specification and Feasibility Assessment Study", U.S Vote Foundation,
 Galois, 2015.
 https://usvotefoundation-drupal.s3.amazonaws.com/prod/E2EVIV_full_report.pdf
 
-\[9\] "BeleniosRF: A Non-interactive Receipt-Free Electronic Voting
+\[10\] "BeleniosRF: A Non-interactive Receipt-Free Electronic Voting
 Scheme" by Pyrros Chaidos et al., 2016.
 *https://eprint.iacr.org/2015/629.pdf*
 
-\[10\] "Remotegrity: Design and Use of an End-to-End Verifiable Remote
+\[11\] "Remotegrity: Design and Use of an End-to-End Verifiable Remote
 Voting System" by R. T. Carback et al., 2013.
 *https://eprint.iacr.org/2013/214.pdf*
 
-\[11\] "EVIV: An end-to-end verifiable Internet voting system" by Paulo
+\[12\] "EVIV: An end-to-end verifiable Internet voting system" by Paulo
 F. et al., 2013,
 *https://www.researchgate.net/publication/257006739_EVIV_An_end-to-end_verifiable_Internet_voting_system*,
 *https://github.com/EVIVoting/EVIV*
 
-\[12\] "VoteAgain: A scalable coercion-resistant voting system" by
+\[13\] "VoteAgain: A scalable coercion-resistant voting system" by
 Wouter Lueks et al., 29th USENIX Security Symposium, 2020.
 *https://arxiv.org/abs/2005.11189*,
 *https://github.com/spring-epfl/voteagain*
 
-\[13\] "Guideline for Using Cryptographic Standards in the Federal
+\[14\] "Guideline for Using Cryptographic Standards in the Federal
 Government: Cryptographic Mechanisms", National Institute of Standards
 and Technology, U.S. Department of Commerce, 2020.
 [*https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-175b.pdf*](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-175b.pdf)
 
-\[14\] "A Decentralized Dynamic PKI based on Blockchain" by M. T. and
+\[15\] "A Decentralized Dynamic PKI based on Blockchain" by M. T. and
 Christian G., Lund University, Sweden, 2020.
 *https://arxiv.org/abs/2012.15351v1*
 
-\[15\] "Towards Anonymous, Unlinkable, and Confidential Transactions in
+\[16\] "Towards Anonymous, Unlinkable, and Confidential Transactions in
 Blockchain" by Kalpana Singh et al., IEEE Blockchain, Halifax, Canada,
 2018.
 https://hal.archives-ouvertes.fr/hal-01812004/document
 
-\[16\] "ethVote: Towards secure voting with distributed ledgers",
+\[17\] "ethVote: Towards secure voting with distributed ledgers",
 Johannes M. and Emmanouil V., International Conference on Cyber Security
 and Protection of Digital Services, 2020.
 *https://www.researchgate.net/publication/341000573_ethVote_Towards_secure_voting_with_distributed_ledgers*
 
-\[17\] Semaphore, https://semaphore.appliedzkp.org/
+\[18\] Semaphore, https://semaphore.appliedzkp.org/
 
-\[18\] "Secure Electronic Voting using BlockChain and Homomorphic
+\[19\] "Secure Electronic Voting using BlockChain and Homomorphic
 Encryption" by C. Sravani et al.,International Journal of Recent
 Technology and Engineering, 2019.
 *https://www.ijrte.org/wp-content/uploads/papers/v8i2S11/B11680982S1119.pdf*
 
-\[19\] "Incoercible Multi-Party Computation and Universally Composable
+\[20\] "Incoercible Multi-Party Computation and Universally Composable
 Receipt-Free Voting", Joël Alwen, Rafail Ostrovsky, Hong-Sheng Zhou, and
 Vassilis Zikas, Advances in Cryptology -- CRYPTO 2015, Santa Barbara,
 USA, 2015. *https://web.cs.ucla.edu/\~rafail/PUBLIC/182.pdf*
 
-\[20\] "The Trusted Execution Environment: Delivering Enhanced Security
+\[21\] "The Trusted Execution Environment: Delivering Enhanced Security
 at a Lower Cost to the Mobile Market", GlobalPlatform, 2015.
 *https://globalplatform.org/wp-content/uploads/2018/04/GlobalPlatform_TEE_Whitepaper_2015.pdf*
 
-\[21\] "A Clean Slate Approach to Linux Security RISC-V Enclave", Sandro
+\[22\] "A Clean Slate Approach to Linux Security RISC-V Enclave", Sandro
 Pinto et al., Embedded World Conference, Germany, 2020.
 *https://www.researchgate.net/publication/339784918_A\_Clean_Slate_Approach_to_Linux_Security_RISC-V_Enclave*
 
-\[22\] "Design Principles for Tamper-Resistant Smartcard Processors",
+\[23\] "Design Principles for Tamper-Resistant Smartcard Processors",
 Oliver Kömmerling et al., USENIX Workshop on Smartcard Technology, USA,
 1999.
 https://www.usenix.org/legacy/events/smartcard99/full_papers/kommerling/kommerling.pdf
 
-\[23\] "Bitcoin: A Peer-to-Peer Electronic Cash System" by S. Nakamoto,
+\[24\] "Bitcoin: A Peer-to-Peer Electronic Cash System" by S. Nakamoto,
 2008. *https://bitcoin.org/bitcoin.pdf*
 
-\[24\] "Tor: The Second-Generation Onion Router" by Roger D. et al.,
+\[25\] "Tor: The Second-Generation Onion Router" by Roger D. et al.,
 2004.
 *https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf*
 
-\[25\] "Tails Linux Operating System: Remaining Anonymous with the
+\[26\] "Tails Linux Operating System: Remaining Anonymous with the
 Assistance of an Incognito System in Times of High Surveillance" by
 Maurice Dawson and Jose Antonio Cardenas-Haro, International Journal of
 Hyperconnectivity and the Internet of Things, United States of America,
 2017.
 *https://www.academia.edu/31947046/Tails_Linux_Operating_System_Remaining_Anonymous_with_the_Assistance_of_an_Incognito_System_in_Times_of_High_Surveillance*
 
-\[26\] Unified Multi-Purpose ID application form,
+\[27\] Unified Multi-Purpose ID application form,
 *https://www.sss.gov.ph/sss/DownloadContent?fileName=SSSForms_UMID_Application.pdf*
 
-\[27\] "La nouvelle carte nationale d\'identité", Ministère de
+\[28\] "La nouvelle carte nationale d\'identité", Ministère de
 l\'Intérieur, France, 2021.
 *https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/La-nouvelle-carte-nationale-d-identite*
 
-\[28\] "CanDID: Can-Do Decentralized Identity with Legacy Compatibility,
+\[29\] "CanDID: Can-Do Decentralized Identity with Legacy Compatibility,
 Sybil-Resistance, and Accountability", by Deepak Maram et al, The
 Initiative for CryptoCurrencies & Contracts, USA, 2021.
 *https://eprint.iacr.org/2020/934.pdf*
 
-\[29\] "Securing Fingerprint Template Using Blockchain and Distributed
+\[30\] "Securing Fingerprint Template Using Blockchain and Distributed
 Storage System", Moses Arhinful Acquah et al, Shandong University of
 Science and Technology, Shandong, China, 2020,
 [*https://res.mdpi.com/d_attachment/symmetry/symmetry-12-00951/article_deploy/symmetry-12-00951-v2.pdf*](https://res.mdpi.com/d_attachment/symmetry/symmetry-12-00951/article_deploy/symmetry-12-00951-v2.pdf)
