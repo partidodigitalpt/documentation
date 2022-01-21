@@ -46,7 +46,7 @@ corresponding residential address by letter.
 The Switzerland experience contrasts with Estonia's in that it has been
 occurring more at a local than at a national level.
 
-Colombian Government and FARC in 2016 went on a plebiscite for a peace treaty
+Colombian government and FARC in 2016 went on a plebiscite for a peace treaty
 wherein around 5 400 000 otherwise excluded expats
 were able to express their opinion on-line through digital tools.<sup>[5](https://www.oecd-forum.org/posts/28703-how-blockchain-can-change-voting-the-colombian-peace-plebiscite)</sup>
 
