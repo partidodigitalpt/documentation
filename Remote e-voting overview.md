@@ -107,7 +107,7 @@ is, during some time, under the control of an attacker. Both these
 conditions assume that a voter should not be able to prove conclusively
 to anyone else how the vote was cast.
 
-- Protecting social profiling should also be considered by using a
+- Protection from social profiling should also be considered by using a
 mix-net (an overlay network), correlations between the votes, the voters
 and their geolocations should be concealed.
 
