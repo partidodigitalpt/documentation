@@ -39,7 +39,7 @@ References:
 
 \[3\] “**Time to care**” by Oxfam International, <https://www.oxfam.org.za/wp-content/uploads/2020/01/Oxfam-Inequality_Report-Time-to-Think.pdf>
 
-\[4\] “**World Inequality Report**” by World Inequality Laboratory, https://wir2018.wid.world/files/download/wir2018-summary-english.pdf
+\[4\] “**World Inequality Report 2018**” by World Inequality Laboratory, https://wir2018.wid.world/files/download/wir2018-summary-english.pdf
 
 \[5\] “**Corruption Perceptions Index**” report by Transparency International, <https://images.transparencycdn.org/images/CPI2020_Report_EN_0802-WEB-1_2021-02-08-103053.pdf>
 
@@ -49,7 +49,7 @@ References:
 
 \[8\] “**Global Report on Internal Displacement 2021**” by the International Displacement Monitoring Centre, [*https://www.internal-displacement.org/global-report/grid2021/*](https://www.internal-displacement.org/global-report/grid2021/)
 
-\[9\] Press release: The Nobel Prize in Physics 2021, https://www.nobelprize.org/prizes/physics/2021/press-release/
+\[9\] “**Press release: The Nobel Prize in Physics 2021**”, https://www.nobelprize.org/prizes/physics/2021/press-release/
 
 \[10\] “**Trends in the World Military Expenditure, 2020**” by the Stockholm International Peace Research Institute (SIPRI), *https://www.sipri.org/sites/default/files/2021-04/fs\_2104\_milex\_0.pdf*
 
