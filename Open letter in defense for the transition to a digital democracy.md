@@ -41,24 +41,26 @@ References:
 
 \[4\] “**World Inequality Report**” by World Inequality Laboratory, https://wir2018.wid.world/files/download/wir2018-summary-english.pdf
 
-\[4\] “**Corruption Perceptions Index**” report by Transparency International, <https://images.transparencycdn.org/images/CPI2020_Report_EN_0802-WEB-1_2021-02-08-103053.pdf>
+\[5\] “**Corruption Perceptions Index**” report by Transparency International, <https://images.transparencycdn.org/images/CPI2020_Report_EN_0802-WEB-1_2021-02-08-103053.pdf>
 
-\[5\] “**Offshore leaks database**” by The International Consortium of Investigative Journalists, https://offshoreleaks.icij.org/pages/database
+\[6\] “**Offshore leaks database**” by The International Consortium of Investigative Journalists, https://offshoreleaks.icij.org/pages/database
 
-\[6\] “**IPBES Report on biodiversity loss**” by the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, [*https://grow-back.com/wp-content/uploads/2020/12/ipbes\_global\_assessment\_report\_summary\_for\_policymakers\_en.pdf*](https://grow-back.com/wp-content/uploads/2020/12/ipbes_global_assessment_report_summary_for_policymakers_en.pdf)
+\[7\] “**IPBES Report on biodiversity loss**” by the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, [*https://grow-back.com/wp-content/uploads/2020/12/ipbes\_global\_assessment\_report\_summary\_for\_policymakers\_en.pdf*](https://grow-back.com/wp-content/uploads/2020/12/ipbes_global_assessment_report_summary_for_policymakers_en.pdf)
 
-\[7\] “**Global Report on Internal Displacement 2021**” by the International Displacement Monitoring Centre, [*https://www.internal-displacement.org/global-report/grid2021/*](https://www.internal-displacement.org/global-report/grid2021/)
+\[8\] “**Global Report on Internal Displacement 2021**” by the International Displacement Monitoring Centre, [*https://www.internal-displacement.org/global-report/grid2021/*](https://www.internal-displacement.org/global-report/grid2021/)
 
-\[8\] “**Trends in the World Military Expenditure, 2020**” by the Stockholm International Peace Research Institute (SIPRI), *https://www.sipri.org/sites/default/files/2021-04/fs\_2104\_milex\_0.pdf*
+\[9\] Press release: The Nobel Prize in Physics 2021, https://www.nobelprize.org/prizes/physics/2021/press-release/
 
-\[9\] “**Quantifying the cost and benefits of ending hunger and undernutrition: Examining the differences among alternative approaches**” by the International Food Policy Research Institute, [*https://ebrary.ifpri.org/digital/collection/p15738coll2/id/132266*](https://ebrary.ifpri.org/digital/collection/p15738coll2/id/132266)
+\[10\] “**Trends in the World Military Expenditure, 2020**” by the Stockholm International Peace Research Institute (SIPRI), *https://www.sipri.org/sites/default/files/2021-04/fs\_2104\_milex\_0.pdf*
 
-\[10\] “**SIPRI Yearbook 2020, Armaments, Disarmament and International Security**” by SIPRI, <https://www.sipri.org/sites/default/files/YB20%2010%20WNF.pdf>
+\[11\] “**Quantifying the cost and benefits of ending hunger and undernutrition: Examining the differences among alternative approaches**” by the International Food Policy Research Institute, [*https://ebrary.ifpri.org/digital/collection/p15738coll2/id/132266*](https://ebrary.ifpri.org/digital/collection/p15738coll2/id/132266)
 
-\[11\] “**Global Health Security Index**” by the Nuclear Threat Initiative, <https://www.ghsindex.org/wp-content/uploads/2020/04/2019-Global-Health-Security-Index.pdf>
+\[12\] “**SIPRI Yearbook 2020, Armaments, Disarmament and International Security**” by SIPRI, <https://www.sipri.org/sites/default/files/YB20%2010%20WNF.pdf>
 
-\[12\] “**Cambridge Working Group Consensus Statement on the Creation of Potential Pandemic Pathogens**”, The Cambridge Working Group, [*http://www.cambridgeworkinggroup.org/documents/statement.pdf*](http://www.cambridgeworkinggroup.org/documents/statement.pdf)
+\[13\] “**Global Health Security Index**” by the Nuclear Threat Initiative, <https://www.ghsindex.org/wp-content/uploads/2020/04/2019-Global-Health-Security-Index.pdf>
 
-\[13\] “**List of laboratory biosecurity incidents**” entry in Wikipedia, [*https://en.wikipedia.org/wiki/List\_of\_laboratory\_biosecurity\_incidents*](https://en.wikipedia.org/wiki/List_of_laboratory_biosecurity_incidents)
+\[14\] “**Cambridge Working Group Consensus Statement on the Creation of Potential Pandemic Pathogens**”, The Cambridge Working Group, [*http://www.cambridgeworkinggroup.org/documents/statement.pdf*](http://www.cambridgeworkinggroup.org/documents/statement.pdf)
 
-\[14\] “**Scientists warn of potential serious health effects of 5G**”, by 5G Appeal, *https://www.5gappeal.eu/*, *https://ehtrust.org/wp-content/uploads/Scientist-5G-appeal-2017.pdf*
+\[15\] “**List of laboratory biosecurity incidents**” entry in Wikipedia, [*https://en.wikipedia.org/wiki/List\_of\_laboratory\_biosecurity\_incidents*](https://en.wikipedia.org/wiki/List_of_laboratory_biosecurity_incidents)
+
+\[16\] “**Scientists warn of potential serious health effects of 5G**”, by 5G Appeal, *https://www.5gappeal.eu/*, *https://ehtrust.org/wp-content/uploads/Scientist-5G-appeal-2017.pdf*
