@@ -34,7 +34,7 @@ The **POLITICAL PARTY** is a political organization committed to building a free
 Acronym, symbol, flag and anthem
 </p>
 
-The **POLITICAL PARTY** adopts the acronym **PP** and the **SYMBOL** as a symbol which represents the new possibilities yet to be discovered from delegative democracy with the use of the internet. The background colour of the flag is **COLOUR** which represents **COLOUR INTERPRETATION**. **SONG** is the anthem.
+The **POLITICAL PARTY** adopts the acronym **PP** and the **SYMBOL** as a symbol which represents the new possilities yet to be discovered from delegative democracy with the use of the internet. The background colour of the flag is **COLOUR** which represents **COLOUR INTERPRETATION**. **SONG** is the anthem.
 
 <p align="center">
 <b>( article 3 )</b><br>
@@ -217,7 +217,7 @@ III.Not participating on off-line events of any of the party’s bodies for a pe
 
 Iv. By not respecting the deadlines or tasks that were entrusted by the party and accepted by the party member, the membership may be revoked temporarily for a period of up to 1 year.
 
-V.Publishing pornography, inciting to any kind of physical violence or any form of hate speech against minorities be it of ethnographical origin, attacking normal sexual orientation (hetero-homo-bi) or making false accusations against other members may be reason enough to be banned for a period longer than 1 year.
+V.Publishing pornography, inciting to any kind of physical violence or any form of hate speech against minorities be it of ethnographical origin, attacking normal sexual orientation (hetero-homo-bi-asexuality) or making false accusations against other members may be reason enough to be banned for a period longer than 1 year.
 
 Vi.It's considered sufficient reason to ban a member from the party if unjustified false information is uploaded to the on-line platform.
 
