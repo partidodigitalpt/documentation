@@ -1220,6 +1220,6 @@ Before the **PP** launchs and is fully operational, a provisional Political Comm
 
 <p align="center">
 <b>( article 6 )</b><br>
-Provisional Presidencyn</p>
+Provisional Presidency</p>
 
 A provisional presidency is to be established; while having the same mission and work order statutes, with exception to the exclusion of line 2 in article 3-c, the composition changes to 2 members of different sexes elected by plurinominal consensus on the on-line platform.
