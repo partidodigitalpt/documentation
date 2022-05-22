@@ -1216,7 +1216,7 @@ Delivering all the necessary signatures to the respective court marking the offi
 <b>( article 5 )</b><br>
 Provisional Political Commission</p>
 
-Before the **PP** launchs and is fully operational, a provisional Political Commission is to be established. While having the same mission, convocation and work order statutes, the composition changes to consisting of a number of elements equal to the number of inter-regions as defined by NUTS 2 and whom are proposed by the provisional Presidency of the **PP**.
+Before the **PP** launchs and is fully operational, a provisional Political Commission is to be established. While having the same mission, convocation and work order statutes, to the exclusion of lines 3 and 7 of the article article 9-d, the composition changes to consisting of a number of elements equal to the number of inter-regions as defined by NUTS 2 and whom are proposed by the provisional Presidency of the **PP**.
 
 <p align="center">
 <b>( article 6 )</b><br>
