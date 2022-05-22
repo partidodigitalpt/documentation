@@ -1192,7 +1192,7 @@ TO-DO / ADD TABLE HERE
 <b>( article 1 )</b><br>
 1st national congress</p>
 
-Its objective is to present the **PP** to the public and this document (unratified statutes), discuss the genesis of the party and assign the first 1000 passphrases to be used for signing up on the on-line platform. It’ll take place during **DATE **in **VENUE**.
+Its objective is to present the **PP** to the public and this document (unratified statutes), discuss the genesis of the party and assign the first 7500 passphrases to be used for signing up on the on-line platform. It’ll take place during **DATE **in **VENUE**.
 
 <p align="center">
 <b>( article 2 )</b><br>
@@ -1211,3 +1211,15 @@ Establishes at least 1 temporary instance of a Local Council, a Regional Council
 4th national congress</p>
 
 Delivering all the necessary signatures to the respective court marking the official birth of the **PP**. Place and venue decided during the 3rd National Congress.
+
+<p align="center">
+<b>( article 5 )</b><br>
+Provisional Political Commission</p>
+
+Before the **PP** launchs and is fully operational, a provisional Political Commission is to be established. While having the same mission, convocation and work order statutes, the composition changes to consisting of a number of elements equal to the number of inter-regions as defined by NUTS 2 and whom are proposed by the provisional Presidency of the **PP**.
+
+<p align="center">
+<b>( article 6 )</b><br>
+Provisional Presidencyn</p>
+
+A provisional presidency is to be established; while having the same mission and work order statutes, with exception to the exclusion of line 2 in article 3-c, the composition changes to 2 members of different sexes elected by plurinominal consensus on the on-line platform.
