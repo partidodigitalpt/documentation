@@ -1192,34 +1192,34 @@ TO-DO / ADD TABLE HERE
 <b>( article 1 )</b><br>
 1st national congress</p>
 
-Its objective is to present the **PP** to the public and this document (unratified statutes), discuss the genesis of the party and assign the first 7500 passphrases to be used for signing up on the on-line platform. It’ll take place during **DATE **in **VENUE**.
+Its objective is to present the **PP** to the public and this document (unratified statutes), discuss the genesis of the party, assign the first 7500 passphrases to be used for the first members signing up on the on-line platform. Establishing a provisional Presidency and a provisional Political Commission. It’ll take place during **DATE **in **VENUE**.
 
 <p align="center">
 <b>( article 2 )</b><br>
-2nd national congress</p>
-
-Its objective is to approve the final party statutes as well as to begin gathering the **nº** of official signatures necessary for the formal creation of the party. It’ll also be used to formalize a temporary composition for the Presidency, a High Councils, the Political Commission and the Press. The 2nd National Congress of the party will take place on a day and place to be defined during the 1st National Congress.
-
-<p align="center">
-<b>( article 3 )</b><br>
-3rd national congress</p>
-
-Establishes at least 1 temporary instance of a Local Council, a Regional Council, an Inter-regional Council, CDIE and SELC at all levels correspondingly and the Press. The work of these temporary bodies is to be followed by the Press. Place and venue to be defined during the 2nd National Congress.
-
-<p align="center">
-<b>( article 4 )</b><br>
-4th national congress</p>
-
-Delivering all the necessary signatures to the respective court marking the official birth of the **PP**. Place and venue decided during the 3rd National Congress.
-
-<p align="center">
-<b>( article 5 )</b><br>
 Provisional Political Commission</p>
 
 Before the **PP** launchs and is fully operational, a provisional Political Commission is to be established. While having the same mission, convocation and work order statutes, to the exclusion of lines 3 and 7 of the article article 9-d, the composition changes to consisting of a number of elements equal to the number of inter-regions as defined by NUTS 2 and whom are proposed by the provisional Presidency of the **PP**.
 
 <p align="center">
-<b>( article 6 )</b><br>
+<b>( article 3 )</b><br>
 Provisional Presidency</p>
 
 A provisional presidency is to be established; while having the same mission and work order statutes, with exception to the exclusion of line 2 in article 3-c, the composition changes to 2 members of different sexes elected by plurinominal consensus on the on-line platform.
+
+<p align="center">
+<b>( article 4 )</b><br>
+2nd national congress</p>
+
+Its objective is to approve the final party statutes as well as to formalize the creation of the party. It’ll also be used to create a temporary composition for the High Councils and the Press. The 2nd National Congress of the party will take place on a day and place to be defined during the 1st National Congress.
+
+<p align="center">
+<b>( article 5 )</b><br>
+3rd national congress</p>
+
+Establishes at least 1 temporary instance of a Local Council, a Regional Council, an Inter-regional Council, CDIE and SELC at all levels correspondingly. Place and venue to be defined during the 2nd National Congress.
+
+<p align="center">
+<b>( article 6 )</b><br>
+4th national congress</p>
+
+Hindsight of the path walked. Celebration.
