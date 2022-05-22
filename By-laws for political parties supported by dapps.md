@@ -333,7 +333,7 @@ The **PP**’s Presidency represents the party in face of other organizations in
 <b>( article 3-b )</b><br>
 Composition</p>
 
-The **PP** presidency is composed of 1 member elected by plurinominal consensus on the on-line platform and 1 member elected by the Political Commission.
+The **PP** presidency is composed of 1 member elected by plurinominal consensus on the on-line platform and 1 member elected by the Political Commission. The presidency must be composed of members of both sexes.
 
 <p align="center">
 <b>( article 3-c )</b><br>
