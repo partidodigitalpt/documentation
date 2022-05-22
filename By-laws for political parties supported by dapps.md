@@ -1210,16 +1210,16 @@ A provisional presidency is to be established; while having the same mission and
 <b>( article 4 )</b><br>
 2nd national congress</p>
 
-Its objective is to approve the final party statutes as well as to formalize the creation of the party. It’ll also be used to create a temporary composition for the High Councils and the Press. The 2nd National Congress of the party will take place on a day and place to be defined during the 1st National Congress.
+Its objective is to approve the final party statutes as well as to formalize the creation of the party. It’ll also be used to create a temporary composition for the High Councils, Press and at least 1 temporary instance of a Local Council. The 2nd National Congress of the party will take place on a day and place to be defined during the 1st National Congress.
 
 <p align="center">
 <b>( article 5 )</b><br>
 3rd national congress</p>
 
-Establishes at least 1 temporary instance of a Local Council, a Regional Council, an Inter-regional Council, CDIE and SELC at all levels correspondingly. Place and venue to be defined during the 2nd National Congress.
+Establishes at least 1 provisional instance of the following bodies; Regional Council, an Inter-regional Council, CDIE and SELC at all levels correspondingly. Place and venue to be defined during the 2nd National Congress.
 
 <p align="center">
 <b>( article 6 )</b><br>
 4th national congress</p>
 
-Hindsight of the path walked. Celebration.
+Hindsight of the path walked. Celebration. Place and venue to be defined during the 3rd National Congress.
