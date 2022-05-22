@@ -227,7 +227,7 @@ Vii.It’s the responsibility of the CDIEs at all levels to evaluate situations 
 <b>( article 13 )</b><br>
 Bodies</p>
 
-There are **22** different bodies that contribute to the normal functioning of the **PP**. Some of these bodies are singular while others compose multiple instances in different geographical locations. These bodies are further divided into main, secondary, minor and supra categories; the main bodies focus on political debates while secondary bodies do the technical support necessary for these discussions. Minor bodies are composed of members of the **PP** without full membership or are bodies that focus on particular tasks or political projects. Supra bodies debate international affairs. The convocation, composition and work order are specified in the statutes of the next chapter.
+There are **23** different bodies that contribute to the normal functioning of the **PP**. Some of these bodies are singular while others compose multiple instances in different geographical locations. These bodies are further divided into main, secondary, minor and supra categories; the main bodies focus on political debates while secondary bodies do the technical support necessary for these discussions. Minor bodies are composed of members of the **PP** without full membership or are bodies that focus on particular tasks or political projects. Supra bodies debate international affairs. The convocation, composition and work order are specified in the statutes of the next chapter.
 
 <p align="center">
 <b>( article 13-b )</b><br>
