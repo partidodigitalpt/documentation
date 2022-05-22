@@ -227,7 +227,7 @@ Vii.It’s the responsibility of the CDIEs at all levels to evaluate situations 
 <b>( article 13 )</b><br>
 Bodies</p>
 
-There are **22** different bodies that contribute to the normal functioning of the **PP**. Some of these bodies are singular while others compose multiple instances in different geographical locations. These bodies are further divided into main, secondary and minor categories; the main bodies focus on political debates while secondary bodies do the technical support necessary for these discussions. Minor bodies are composed of members of the **PP** without full membership or are bodies that focus on particular tasks or political projects. The convocation, composition and work order are specified in the statutes of the next chapter.
+There are **22** different bodies that contribute to the normal functioning of the **PP**. Some of these bodies are singular while others compose multiple instances in different geographical locations. These bodies are further divided into main, secondary, minor and supra categories; the main bodies focus on political debates while secondary bodies do the technical support necessary for these discussions. Minor bodies are composed of members of the **PP** without full membership or are bodies that focus on particular tasks or political projects. Supra bodies debate international affairs. The convocation, composition and work order are specified in the statutes of the next chapter.
 
 <p align="center">
 <b>( article 13-b )</b><br>
@@ -287,9 +287,11 @@ This chapter explains the objective for which each of the party’s bodies were 
 
 I.The main bodies of the **PP** are: the Presidency, the National Congress, the High Councils, the Inter-regional Councils, the Regional Councils, the Local Councils, the Political Commission, all levels of the Coordination for the Defence of Integrity and Ethics and all levels of the Scientific-Economic and Legal Coordination.
 
-II.Secondary bodies are: the Central and the Local Administrations, the Scientific Committees, the Economic Committees, the Legal Committee, the Press and the International Council.
+II.Secondary bodies are: the Central and the Local Administrations, the Scientific Committees, the Economic Committees, the Legal Committee and the Press.
 
 III.Minor bodies: the Digital Youth and the Cores.
+
+IV. Supra: International Council.
 
 <p align="center">
 <b>( article 2 )</b><br>
