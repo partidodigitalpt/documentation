@@ -640,7 +640,7 @@ It is one of the most active bodies and its function is to produce reports that 
 <b>( article 12-b )</b><br>
 Composition</p>
 
-The SC is made up of Party members of the party who volunteer and own an academic diploma in sciences.
+The SC is made up of members of the party who volunteer and own an academic diploma in sciences.
 
 I.The SCs are to respect the subdivision of the LSELC and the ISELC and their formation must be approved by either the LCDIE or the ICDIE correspondingly, depending on the rate of approval of the policy being analysed. Policies with local rate of approval above 45% are entitled a group formed by the LSELC while policies with a global rate of approval above 45% are studied by groups made by the ISELC.
 
