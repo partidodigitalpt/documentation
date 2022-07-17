@@ -141,7 +141,7 @@ authenticating eIDs generally relies on the issuance of digital
 certificates from a CA (the government or other public institutions) and
 the integrity of these is tied to the good behavior of the officials who
 issue and manage the certificates. Recently, decentralized PKI schemes
-which rely instead on a *Web of Trust* and *blockchain* were proposed to
+which rely instead on a *Network of Trust* and *blockchain* were proposed to
 mitigate this design flaw.<sup>[15](https://arxiv.org/abs/2012.15351v1)</sup>
 
 Zero-Knowledge Proofs (ZKP) are a way to prove to a party that you are
