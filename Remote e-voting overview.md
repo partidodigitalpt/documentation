@@ -86,8 +86,7 @@ voters to detect fraud by distributing receipts for each vote while
 simultaneously preventing these from being used as proofs of their
 orientation to a third-party, in order to avoid coercion. Current
 practices stipulate that all receipts should be posted publicly in a
-secure append-only bulletin board once the voter finishes the voting
-process.
+secure append-only bulletin board once the final tally is published.
 
 ### Privacy
 
