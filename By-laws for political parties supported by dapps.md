@@ -1207,6 +1207,12 @@ Provisional Presidency</p>
 A provisional presidency is to be established; while having the same mission and work order statutes, with exception to the exclusion of line 1 and 2 in article 3-c, the composition changes to 2 members of different sexes elected by plurinominal consensus on the on-line platform.
 
 <p align="center">
+<b>( article ? )</b><br>
+adicionar coordenacao etica provisoria</p>
+
+adicionar coordenacao etica provisoria
+
+<p align="center">
 <b>( article 4 )</b><br>
 2nd national congress</p>
 
