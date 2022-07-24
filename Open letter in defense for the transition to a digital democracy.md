@@ -26,7 +26,7 @@ As free citizens, descendants of ancestors who signed the Universal Declaration 
 
 Therefore, we appeal to society as a whole and to all competent authorities, national and international, to create mechanisms and tools which pave the way to encourage the participation of populations in political issues and involve them and in the regeneration of consensus around solutions to the key issues raised in this document.
 
-Although humanity's history has always been towards evolution, acknowledging that allmighty God is always present, there are disturbing signs today that show that action is needed! The current political failure is essentially due to the distance that exists between political agents and their electorate. 
+Although humanity's history has always been towards evolution, acknowledging that the allmighty God is always present, there are disturbing signs today that show that action is needed! The current political failure is essentially due to the distance that exists between political agents and their electorate. 
 
 Electronic voting will perhaps be one of the fundamental tools for this much-needed transition towards a more democratic society. In every election where electronic voting has been tried there has been an increase in voter turnout! In addition to increasing participation, remote e-voting allows referendums to be held in a much faster and cheaper way than the traditional methods. This is fundamental if we want to poll the population around many issues in a society that is constantly changing.
 
