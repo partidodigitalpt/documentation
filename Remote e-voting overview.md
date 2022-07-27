@@ -277,6 +277,8 @@ rely on legacy systems.
 Biometrics may also prove to be an alternative to eID provided by state
 issued smart cards.<sup>[30](https://res.mdpi.com/d_attachment/symmetry/symmetry-12-00951/article_deploy/symmetry-12-00951-v2.pdf)</sup>
 
+## Final remarks
+
 The present authors consider that the conditions to deploy E2E-VIV are
 to a large extent sufficiently understood and that further investment
 should be made. We also consider that with the exception of Estonia
