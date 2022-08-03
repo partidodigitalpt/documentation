@@ -112,7 +112,7 @@ and their geolocations should be concealed.
 
 Various concepts like receipt free voting, E2E, third-party
 verifiability, etc., led to development of different protocols. A common
-critical aspect concerns identity management, fundamenal to guarantee
+critical aspect concerns identity management, fundamental to guarantee
 that each person can vote at most once during each election. The concept
 of a PKI (public key infrastructure) helps by providing an easy and
 highly secured way for authentication. PKI ensures that sensitive
